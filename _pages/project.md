@@ -1,14 +1,23 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Project"
+permalink: /project/
 author_profile: true
 ---
 
 <!-- add a statement of research problems that I want to solve here. -->
 
-Current projects
+<!-- Current projects -->
 ------
+**Data driven deep reinforcement learning based quadrupedal robot control and locomotion development**
+***Internship project in Unitree Robotics***
+• Developed the novel quadrupedal robot locomotion and controls framework with deep reinforcement learning
+• Trained the quadrupedal robot locomotion and controls policy based on deep reinforcement learning with Isaac Gym
+• Developed the quadrupedal robot learning-based locomotion and controls model deployment program with C++
+• Conduct quadrupedal robot multi-gaits walking test using trained deep reinforcement learning control policy and analyzed the test data for sim-to-real evaluation
+• Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter
+![pic1](unitree_1.png)
+
 **DiffTune**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
