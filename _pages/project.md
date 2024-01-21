@@ -18,7 +18,7 @@ author_profile: true
 • Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter
 ![unitree_video](unitree_video.mp4)
 <video width="320" height="240" controls>
-  <source src="unitree_video.mp4" type="video/mp4">
+  <source src="unitree_video.mov" type="video/mp4">
 </video>
 
 **DiffTune**
