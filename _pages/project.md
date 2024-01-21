@@ -17,6 +17,9 @@ author_profile: true
 • Conduct quadrupedal robot multi-gaits walking test using trained deep reinforcement learning control policy and analyzed the test data for sim-to-real evaluation\
 • Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter
 ![unitree_video](unitree_video.mp4)
+<video width="320" height="240" controls>
+  <source src="unitree_video.mp4" type="video/mp4">
+</video>
 
 **DiffTune**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
