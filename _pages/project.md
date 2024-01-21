@@ -15,11 +15,10 @@ author_profile: true
 • Trained the quadrupedal robot locomotion and controls policy based on deep reinforcement learning with Isaac Gym\
 • Developed the quadrupedal robot learning-based locomotion and controls model deployment program with C++\
 • Conduct quadrupedal robot multi-gaits walking test using trained deep reinforcement learning control policy and analyzed the test data for sim-to-real evaluation\
-• Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter
-![unitree_video](unitree_video.mp4)
-<video width="320" height="240" controls>
-  <source src="unitree_video.mov" type="video/mp4">
-</video>
+• Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter\
+Example video can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/unitree_video.mp4).
+![unitree_1](unitree_1.png)
+
 
 **DiffTune**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
