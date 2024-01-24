@@ -19,7 +19,7 @@ author_profile: true
 Example video can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/unitree_video.mp4).
 ![unitree_1](unitree_1.png)
 
-![ral_1](RAL_1.gif)\
+![ral_1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/RAL_1.gif)\
 **DiffTune**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
