@@ -22,9 +22,9 @@ Example video can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Ch
 
 **Development on Autonomous Unmanned Aerial Vehicles (UAV)**\
 ***Research Assistant, Advanced Controls and Research Laboratory, UIUC***\
+***Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineering Department, UIUC***\
 <!-- ![ral_gif_1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/RAL_1.gif)\ -->
 ![ral_gif_1](RAL_1.gif)\
-Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineering Department, UIUC\
 • Developed a collision-free bilevel trajectory optimization system with optimal waypoints’ temporal and spatial assignment for autonomous quadrotor’s motion planning based on convex optimization, increasing the computational efficiency by 150%. The work has been published on IEEE RA-L and presented on IROS 2023, the paper can be found [here](https://ieeexplore.ieee.org/document/10117594)\
 • Deployed the trajectory generation program together with path planning system on Nvidia TX2 onboard computer\
 • Co-designed and manufactured the prototype of omnidrone, a new type of fully-actuated UAV with six motors\
