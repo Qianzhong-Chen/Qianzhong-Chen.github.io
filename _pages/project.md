@@ -27,7 +27,8 @@ Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineerin
 • Deployed the trajectory generation program together with path planning system on Nvidia TX2 onboard computer\
 • Co-designed and manufactured the prototype of omnidrone, a new type of fully-actuated UAV with six motors\
 • Designed and conducted experiments to evaluate different motors’ thrust- and torque-throttle curves under different battery conditions based on NI-DAQ and LabView\
-![ral_gif_1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/RAL_1.gif)\
+<!-- ![ral_gif_1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/RAL_1.gif)\
+![ral_gif_1](RAL_1.gif) -->
 
 **Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images**\
 ***Team Leader, Course Project of CS 229 Machine Learning***
@@ -35,6 +36,8 @@ Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineerin
 • Conduct training with 3 CNN models (ResNet101, VGG16, MobileNet) on preprocessed dataset\
 • Aiming at small dataset (500 images), conduct different methods including data augmentation, different splitting, fine-tunning the pre-trained model and cross validation, increasing the detection precision by 7%\
 • Trained the images with Vision Transformer, achieving detection precision of 75%\
+Project final paper can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_final_project.pdf), poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_poster.pdf).
+![cs229](cs229_plot.png)
 
 
 **DiffTune**
