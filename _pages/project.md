@@ -11,51 +11,32 @@ author_profile: true
 ------
 **Data driven deep reinforcement learning based quadrupedal robot control and locomotion development**\
 ***Internship project in Unitree Robotics***\
+![unitree_1](unitree_1.png)\
 • Developed the novel quadrupedal robot locomotion and controls framework with deep reinforcement learning\
 • Trained the quadrupedal robot locomotion and controls policy based on deep reinforcement learning with Isaac Gym\
 • Developed the quadrupedal robot learning-based locomotion and controls model deployment program with C++\
 • Conduct quadrupedal robot multi-gaits walking test using trained deep reinforcement learning control policy and analyzed the test data for sim-to-real evaluation\
 • Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter\
 Example video can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/unitree_video.mp4).
-![unitree_1](unitree_1.png)
 
 
 **Development on Autonomous Unmanned Aerial Vehicles (UAV)**\
 ***Research Assistant, Advanced Controls and Research Laboratory, UIUC***\
+<!-- ![ral_gif_1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/RAL_1.gif)\ -->
+![ral_gif_1](RAL_1.gif)\
 Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineering Department, UIUC\
 • Developed a collision-free bilevel trajectory optimization system with optimal waypoints’ temporal assignment for autonomous quadrotor’s motion planning based on convex optimization and gradient descent\
 • Deployed the trajectory generation program together with path planning system on Nvidia TX2 onboard computer\
 • Co-designed and manufactured the prototype of omnidrone, a new type of fully-actuated UAV with six motors\
 • Designed and conducted experiments to evaluate different motors’ thrust- and torque-throttle curves under different battery conditions based on NI-DAQ and LabView\
-<!-- ![ral_gif_1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/RAL_1.gif)\
-![ral_gif_1](RAL_1.gif) -->
+
 
 **Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images**\
 ***Team Leader, Course Project of CS 229 Machine Learning***
+![cs229](cs229_plot.png)\
 • Preprocessed medical images, including image resizing, noise reduction, essential feature extraction\
 • Conduct training with 3 CNN models (ResNet101, VGG16, MobileNet) on preprocessed dataset\
 • Aiming at small dataset (500 images), conduct different methods including data augmentation, different splitting, fine-tunning the pre-trained model and cross validation, increasing the detection precision by 7%\
 • Trained the images with Vision Transformer, achieving detection precision of 75%\
 Project final paper can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_final_project.pdf), poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_poster.pdf).
-![cs229](cs229_plot.png)
 
-
-**DiffTune**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The performance of a robot controller depends on the choice of its parameters, which require careful tuning. In this project, we present DiffTune, a novel, gradient-based automatic tuning framework. Our method unrolls the dynamical system and controller as a computational graph and updates the controller parameters through gradient-based optimization. The gradients are updated using sensitivity propagation (inspired by the forward-mode auto-differentiation) with real data collected from the system. 
-
-**L1Quad**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/18-2OqTRJ50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Quadrotors are deployed to more and more applications nowadays. Yet quadrotors' flight performance is subject to various uncertainties and disturbances, e.g., ground effect, slosh payload, damaged propeller, downwash, and sudden weight change, just to name a few. In this project, we propose L1Quad: an L1 adaptive augmentation for compensating for the uncertainties and disturbances experienced by the quadrotor. We lump all the uncertainties and disturbances experienced by the quadrotor as unknown additive forces and moments which impact the quadrotor’s dynamics. An L1 adaptive augmentation is designed to estimate and compensate for these lumped uncertainties and disturbances. The video below shows the superior performance of L1Quad in various challenging scenarios without retuning the controller parameters case-by-case. All the demos were conducted on a custom-built quadrotor controlled by a Pixhawk flight controller running our customized Ardupilot firmware.  
-
-Past projects
-------
-**Mobile estimation and control of a dynamical spatiotemporal process**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i8Lms1cOoyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-The long-term goal of this project is to enable multiple autonomous agents to adaptively estimate and possibly control a dynamical spatiotemporal process (e.g., harmful algal blooms or forest fires). The specific research objective is to apply tools from the theory of infinite-dimensional systems, nonlinear estimation, optimal experiment design, inverse problems, network science, uncertainty quantification, and multi-vehicle control to solve the problem of (i) estimation and control of a dynamical spatiotemporal process and (ii) task allocation for a heterogeneous group of resource-constrained agents.
-
-**Cooperative mapping, searching, and tracking in an uncertain urban environment**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wEo0hH-psg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-In this project, we propose a cooperative mapping and search algorithm for detecting a single moving target in an urban environment that is initially unknown to a team of autonomous quadrotors equipped with noisy sensors with a limited field of view. This algorithm is being tested with real quadrotors and a simulated target at the [Fearless Flight Facility (F3)](https://aero.umd.edu/research/fearless-flight-facility-f3) of the University of Maryland. This work is in collaboration with [Dr. Artur Wolek](https://mees.charlotte.edu/directory/artur-wolek) and Heron Systems, Inc. (A Shield AI Company).
