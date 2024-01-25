@@ -49,7 +49,7 @@ Computer vision techniques have been widely employed to solve various image anal
 
 <span style="font-size: 22px; font-weight: bold;">Intelligent Sign Language Robot Developmen</span>\
 <!-- **Intelligent Sign Language Robot Development** -->
-***Team Leader, Capstone Project of ZJU-UIUC Institute***
+***Team Leader, Capstone Project of ZJU-UIUC Institute***\
 <!-- ![ECE445_1](ECE445_1.png =100x20) ![ECE445_2](ECE445_2.png =100x20)  -->
 <!-- <img src="https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/_pages/ECE445_1.png" width="200" height="200" /> <img src="https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/_pages/ECE445_2.png" width="200" height="200" />\ -->
 <!-- <img src="ECE445_1.png" width="200" height="200" /> <img src="ECE445_2.png" width="200" height="200" />\ -->
