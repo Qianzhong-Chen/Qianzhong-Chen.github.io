@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- Current projects -->
 ------
-<span style="font-size: 26px; font-weight: bold;">Data driven deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
+<span style="font-size: 22px; font-weight: bold;">Data driven deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
 <!-- **Data driven deep reinforcement learning based quadrupedal robot control and locomotion development**\ -->
 ***Internship project in Unitree Robotics***\
 ![unitree_1](unitree_1.png)\
@@ -22,8 +22,8 @@ author_profile: true
 • Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter, increasing the estimation accuracy by 23%\
 ***Example video can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/unitree_video.mp4)***
 
-
-**Development on Autonomous Unmanned Aerial Vehicles (UAV)**\
+<span style="font-size: 22px; font-weight: bold;">Development on Autonomous Unmanned Aerial Vehicles (UAV)</span>\
+<!-- **Development on Autonomous Unmanned Aerial Vehicles (UAV)**\ -->
 ***Research Assistant, Advanced Controls and Research Laboratory, UIUC***\
 ***Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineering Department, UIUC***\
 <!-- ![ral_gif_1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/RAL_1.gif)\ -->
@@ -35,10 +35,10 @@ We propose a framework for fast trajectory planning for unmanned aerial vehicles
 • Co-designed and manufactured the prototype of omnidrone, a new type of fully-actuated UAV with six motors\
 • Designed and conducted experiments to evaluate different motors’ thrust- and torque-throttle curves under different battery conditions based on NI-DAQ and LabView
 
-
-**Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images**\
-***Team Leader, Course Project of CS 229 Machine Learning***
-![cs229](cs229_plot.png){:width="500px" height="500px"}\
+<span style="font-size: 22px; font-weight: bold;">Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images</span>\
+<!-- **Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images**\ -->
+***Team Leader, Course Project of CS 229 Machine Learning***\
+![cs229](cs229_plot.png){:width="700px" height="700px"}\
 Computer vision techniques have been widely employed to solve various image analysis problems, especially in the world of medecine. Deep learning and computer vision provide precious tools for early diagnosis of multiple diseases using medical imagery. In this project, we focus on developing models to detect glaucoma using OCT eye fundus images.Our dataset consists of 650 labeled eye-fundus images and a small table of extracted features for each of the images, and both the images and the extracted features were used to run the deep learning models. Model evaluation was performed using F1 score, precision and recall metrics.\
  *What I have done in this project:*\
 • Preprocessed medical images, including image resizing, noise reduction, essential feature extraction\
@@ -47,12 +47,13 @@ Computer vision techniques have been widely employed to solve various image anal
 • Trained the images with Vision Transformer, achieving detection precision of 75%\
 ***Project final paper can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_final_project.pdf), poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_poster.pdf)***
 
-**Intelligent Sign Language Robot Development**
+<span style="font-size: 22px; font-weight: bold;">Intelligent Sign Language Robot Developmen</span>\
+<!-- **Intelligent Sign Language Robot Development** -->
 ***Team Leader, Capstone Project of ZJU-UIUC Institute***
 <!-- ![ECE445_1](ECE445_1.png =100x20) ![ECE445_2](ECE445_2.png =100x20)  -->
 <!-- <img src="https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/_pages/ECE445_1.png" width="200" height="200" /> <img src="https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/_pages/ECE445_2.png" width="200" height="200" />\ -->
 <!-- <img src="ECE445_1.png" width="200" height="200" /> <img src="ECE445_2.png" width="200" height="200" />\ -->
-![ECE445_1](ECE445_1.png){:width="300px" height="300px"} ![ECE445_2](ECE445_2.png){:width="300px" height="300px"}\
+![ECE445_1](ECE445_1.png){:width="400px" height="400px"} ![ECE445_2](ECE445_2.png){:width="400px" height="400px"}\
 This project proposes a novel intelligent assistant to help people with speech or hearing impairments communicate and seek help. The intelligent assistant includes a bionic hand of 17 degrees of freedom (DOFs) and an innovative neural network that recognizes American Sign Language (ASL). The users can prompt a question in ASL, and the assistant would recognize the problem and search for the answer online, answering and helping the user with ASL co-generated by the microcontroller unit and the bionic hand. Meanwhile, the answer would be demonstrated on a digital screen for inspection.\
 *What I have done in this project:*\
 • Designed and developed the sign language robot hardware system, including a 17 degrees of freedom dexterous bionic hand, a STM-32 microcontroller, a NVIDIA Jetson Nano onboard computer\
