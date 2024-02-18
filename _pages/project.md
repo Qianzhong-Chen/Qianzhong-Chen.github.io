@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- Current projects -->
 ------
-<span style="font-size: 22px; font-weight: bold;">Data driven deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
+<span style="font-size: 22px; font-weight: bold;">Deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
 <!-- **Data driven deep reinforcement learning based quadrupedal robot control and locomotion development**\ -->
 ***Internship project in Unitree Robotics***\
 ![unitree_1](unitree_1.png)\
@@ -47,7 +47,7 @@ Computer vision techniques have been widely employed to solve various image anal
 • Trained the images with Vision Transformer, achieving detection precision of 75%\
 ***Project final paper can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_final_project.pdf), poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_poster.pdf)***
 
-<span style="font-size: 22px; font-weight: bold;">Intelligent Sign Language Robot Developmen</span>\
+<span style="font-size: 22px; font-weight: bold;">Intelligent Sign Language Robot Development</span>\
 <!-- **Intelligent Sign Language Robot Development** -->
 ***Team Leader, Capstone Project of ZJU-UIUC Institute***\
 <!-- ![ECE445_1](ECE445_1.png =100x20) ![ECE445_2](ECE445_2.png =100x20)  -->
