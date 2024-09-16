@@ -9,9 +9,7 @@ author_profile: true
 
 <!-- Current projects -->
 ------
-<span style="font-size: 22px; font-weight: bold;">Embodied AI for biotech experiments robot</span>
-
-<!-- **Data driven deep reinforcement learning based quadrupedal robot control and locomotion development**\ -->
+<span style="font-size: 22px; font-weight: bold;">Embodied AI for biotech experiments robot</span>\
 ***Internship project in Centrillion Technology***\
 **keywords**: Embodied AI, Imitation Learning, LLM, Biotech Experimental Robot\
 • Use Mobile-ALOHA platform to to collect expert trajectories (more than 500 episodes per subtask) to build a dataset with 15+ subtasks.\
