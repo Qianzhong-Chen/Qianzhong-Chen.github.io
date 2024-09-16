@@ -9,11 +9,13 @@ redirect_from:
 ---
 <!-- Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Prof. [Naira Hovakimyan](https://naira.mechse.illinois.edu/) and I'm leading the ACRL Multirotor Team. I received my Ph.D. in Electrical Engineering from the University of Maryland, under the supervision of Prof. [Derek A. Paley](https://aero.umd.edu/clark/faculty/58/Derek-A-Paley) in 2021. My Curriculum Vitae can be found [here](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/files/CV_Sheng_UIUC.pdf). -->
 
-Hello! Thank you for visiting my website. I'm a first year Master's student at Stanford studying Mechanical Engineering, my interests and background are across automatic control, mobile robot decision making & motion planning, learning-based robot control. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and University of Illinois Urbana-Champaign in 2023. My Curriculum Vitae can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/Qianzhong_Chen_CV.pdf).
+Hello! Thank you for visiting my website. I'm a first year Master's student at Stanford studying Mechanical Engineering, my interests and background are across automatic control, mobile robot decision making & motion planning, learning-based robot control. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and University of Illinois Urbana-Champaign in 2023. My Resume can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/Qianzhong_Chen_resume.pdf).
 
 Recent news
 ------
 
+* 2024/06: I started a new role as robotics algorithm engineer at [Centrillion Technologies](https://www.centrilliontech.com/), focusing on building LLM-driven mobile manipulation robot for bio-science lab experiments assistance.  
+* 2024/02: I started a new role as research assistant at [Stanford-MSL](https://msl.stanford.edu/), my project is end-to-end mobile robot navigation and control policy based on NeRF and differentiable RL.
 * 2023/10: I present my RA-L paper on [IROS 2023](https://ieee-iros.org/), my poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/2023_IROS_poster.pdf), with some event photos [photo1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/2023_IROS_photo1.jpg) [photo2](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/2023_IROS_photo2.jpg)
 * 2023/09: I started my Master of Science in Mechanical Engineering at Stanford University
 * 2023/06: I joined [Unitree Robotics](https://m.unitree.com/) as an intern robotics control enginer, focusing on quadrupedal robot deep reinforcement learning control and locomotion.
