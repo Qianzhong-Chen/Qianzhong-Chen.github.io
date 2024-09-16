@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Prof. [Naira Hovakimyan](https://naira.mechse.illinois.edu/) and I'm leading the ACRL Multirotor Team. I received my Ph.D. in Electrical Engineering from the University of Maryland, under the supervision of Prof. [Derek A. Paley](https://aero.umd.edu/clark/faculty/58/Derek-A-Paley) in 2021. My Curriculum Vitae can be found [here](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/files/CV_Sheng_UIUC.pdf). -->
 
-Hello! Thank you for visiting my website. I'm a first year Master's student at Stanford studying Mechanical Engineering, my interests and background are across automatic control, mobile robot decision making & motion planning, learning-based robot control. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and University of Illinois Urbana-Champaign in 2023. My Resume can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/Qianzhong_Chen_resume.pdf).
+Hello! Thank you for visiting my website. I'm a first year Master's student at Stanford studying Mechanical Engineering, my interests and background are across automatic control, mobile robot decision making & motion planning, learning-based robot control. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and University of Illinois Urbana-Champaign in 2023. My Curriculum Vitae can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/Qianzhong_Chen_CV.pdf).
 
 Recent news
 ------
