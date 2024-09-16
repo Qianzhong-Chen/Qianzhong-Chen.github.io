@@ -9,21 +9,21 @@ author_profile: true
 
 <!-- Current projects -->
 ------
-<span style="font-size: 22px; font-weight: bold;">Deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
+<span style="font-size: 22px; font-weight: bold;">Embodied AI for biotech experiments robot</span>\
 
 <!-- **Data driven deep reinforcement learning based quadrupedal robot control and locomotion development**\ -->
-***Internship project in Unitree Robotics***\
+***Internship project in Centrillion Technology***\
 **keywords**: Embodied AI, Imitation Learning, LLM, Biotech Experimental Robot\
 • Use Mobile-ALOHA platform to to collect expert trajectories (more than 500 episodes per subtask) to build a dataset with 15+ subtasks.
 • Use ACT algorithm to train 15+ biological experiment fine operation subtasks. Single subtask duration 10-20s, success rate of more than 80%, with basic generalization and adaptive ability.
 • Design an embodied AI framework using LLM and imitation learning, conducting high-level task planning, estimating the success of the previous subtask, and executing the sequenced subtask under the premise of safety to ensure seamless integration of robot functions in the complex experimental workflow.
-***Example video of LLM driven embodied AI (manuplation + base moving) can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/embodied_AI_LLM.mp4)***
-***Example video of generalized pick-and-place task can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/screw.mp4)***
-***Example video of using syringe to conduct biochemical experimet task can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/syringe.mp4)***
-***Example video of accurate manipulation in moving wafer can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/wafer_accurate_manuplation.mp4)***
-***Example video of generalized manipulation in moving wafer can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/wafer_generalization.mp4)***
+***Example video of LLM driven embodied AI (manuplation + base moving) can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/embodied_AI_LLM.mp4)***\
+***Example video of generalized pick-and-place task can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/screw.mp4)***\
+***Example video of using syringe to conduct biochemical experimet task can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/syringe.mp4)***\
+***Example video of accurate manipulation in moving wafer can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/wafer_accurate_manuplation.mp4)***\
+***Example video of generalized manipulation in moving wafer can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/wafer_generalization.mp4)***\
 
-
+<span style="font-size: 22px; font-weight: bold;">Deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
 ***Internship project in Unitree Robotics***\
 ![unitree_1](unitree_1.png)\
  Deep reinforcement learning involves training a robot to navigate and control its movements by learning from its interactions with the environment. The project focuses on the development of robot locomotion and controls through the implementation of deep reinforcement learning (DRL) techniques. The project aims to enhance the robustness, efficiency, and adaptability of robotic systems, paving the way for more sophisticated and autonomous robots capable of navigating complex environments with precision and intelligence.\
