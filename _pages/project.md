@@ -11,6 +11,7 @@ author_profile: true
 ------
 <span style="font-size: 22px; font-weight: bold;">Embodied AI for biotech experiments robot</span>\
 ***Internship project in Centrillion Technology***\
+![aloha](aloha.png)\
 **keywords**: Embodied AI, Imitation Learning, LLM, Biotech Experimental Robot\
 • Use Mobile-ALOHA platform to to collect expert trajectories (more than 500 episodes per subtask) to build a dataset with 15+ subtasks.\
 • Use ACT algorithm to train 15+ biological experiment fine operation subtasks. Single subtask duration 10-20s, success rate of more than 80%, with basic generalization and adaptive ability.\
