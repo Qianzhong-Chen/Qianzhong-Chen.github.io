@@ -25,10 +25,10 @@ author_profile: true
 <span style="font-size: 22px; font-weight: bold;">Auto-tuning Bipedal Robot MPC Controller under Challenge Terrian with DiffTune</span>\
 ***Research Assistant, Advanced Controls and Research Laboratory, UIUC***\
 ***Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineering Department, UIUC & Dr. Quan Nguyen, Assistant Professor of Aerospace and Mechanical Engineering, USC***\
-• Developed a legged robot MPC controller auto-tuning framework that conducts sensitivity analysis on bipedal robot’s stance force over MPC parameters. Auto-tuning MPC decreased the control smooth loss and tracking loss up to 40% compared to hand-tunned MPC.
-• Trained a ground reaction force & moment network with real sensor data that maps MPC solution to real ground reactions to decrease sim-toreal error.
+• Developed a legged robot MPC controller auto-tuning framework that conducts sensitivity analysis on bipedal robot’s stance force over MPC parameters. Auto-tuning MPC decreased the control smooth loss and tracking loss up to 40% compared to hand-tunned MPC.\
+• Trained a ground reaction force & moment network with real sensor data that maps MPC solution to real ground reactions to decrease sim-toreal error.\
 • The work has been submitted to ICRA 2025 and is under review now.
-![HECTOR-DiffTune](images/HECTOR-DiffTune.png)\
+![HECTOR-DiffTune](HECTOR-DiffTune.png)\
 
 <span style="font-size: 22px; font-weight: bold;">Deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
 ***Internship project in Unitree Robotics***\
