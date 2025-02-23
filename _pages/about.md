@@ -33,7 +33,3 @@ Honors and awards
 * Journal Reviewer: IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics
 * Conference Reviewer: CoRL, ICRA, IROS, IFAC WC, CDC, ACC, and DARS-SWARM
 * Member of the IEEE CSS Technical Committee on Intelligent Control -->
-<!-- 
-Visitors
-------
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=oXLUS-3Iesx-b_7fwyX7vOsyE4f4gwugR3oIU_mKEf4"></script> -->
