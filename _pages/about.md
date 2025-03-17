@@ -14,7 +14,7 @@ Recent news
 
 * 2024/06: I started a new role as robotics algorithm engineer at [Centrillion Technologies](https://www.centrilliontech.com/), focusing on building LLM-driven mobile manipulation robot for bio-science lab experiments assistance.  
 * 2024/02: I started a new role as research assistant at [Stanford-MSL](https://msl.stanford.edu/), my project is end-to-end mobile robot navigation and control policy based on NeRF and differentiable RL.
-* 2023/10: I present my RA-L paper on [IROS 2023](https://ieee-iros.org/), my poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/2023_IROS_poster.pdf), with some event photos [photo1](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/2023_IROS_photo1.jpg) [photo2](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/2023_IROS_photo2.jpg)
+* 2023/10: I present my RA-L paper on [IROS 2023](https://ieee-iros.org/), my poster can be found [here](https://drive.google.com/file/d/1kgR-Wkw_1a_R67KK-74c22X9KeGUi6sc/view?usp=drive_link), with some event photos [photo1](https://drive.google.com/file/d/1ewSDxctsEqfInZprZgRUn82ginDMWBJq/view?usp=drive_link) [photo2](https://drive.google.com/file/d/1Xq9Uasjo0LTI3LR7Ays0lBjOwlJr5lix/view?usp=drive_link)
 * 2023/09: I started my Master of Science in Mechanical Engineering at Stanford University
 * 2023/06: I joined [Unitree Robotics](https://m.unitree.com/) as an intern robotics control enginer, focusing on quadrupedal robot deep reinforcement learning control and locomotion.
 * 2023/06: I graduated from Zhejiang University, with a Bachelor of Enginineering in Mechanical Engineering.
