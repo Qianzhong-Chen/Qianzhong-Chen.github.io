@@ -16,11 +16,11 @@ author_profile: true
 • Use Mobile-ALOHA platform to to collect expert trajectories (more than 500 episodes per subtask) to build a dataset with 15+ subtasks.\
 • Use ACT algorithm to train 15+ biological experiment fine operation subtasks. Single subtask duration 10-20s, success rate of more than 80%, with basic generalization and adaptive ability.\
 • Design an embodied AI framework using LLM and imitation learning, conducting high-level task planning, estimating the success of the previous subtask, and executing the sequenced subtask under the premise of safety to ensure seamless integration of robot functions in the complex experimental workflow.\
-***Example video of LLM driven embodied AI (manuplation + base moving) can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/embodied_AI_LLM.mp4)***\
-***Example video of generalized pick-and-place task can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/screw.mp4)***\
-***Example video of using syringe to conduct biochemical experimet task can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/syringe.mp4)***\
-***Example video of accurate manipulation in moving wafer can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/wafer_accurate_manuplation.mp4)***\
-***Example video of generalized manipulation in moving wafer can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/centrillion/wafer_generalization.mp4)***
+***Example video of LLM driven embodied AI (manuplation + base moving) can be found [here](https://drive.google.com/file/d/1XSHLkXdIRGrEZxlZRDkWru8o1O3jLeX9/view?usp=drive_link)***\
+***Example video of generalized pick-and-place task can be found [here](https://drive.google.com/file/d/14YjudulALLU_JMGQg8YcTkDmS6lZ1anB/view?usp=drive_link)***\
+***Example video of using syringe to conduct biochemical experimet task can be found [here](https://drive.google.com/file/d/15AofR7PzeYGGHIEEX-_tJGUKxhGhJ8Ov/view?usp=drive_link)***\
+***Example video of accurate manipulation in moving wafer can be found [here](https://drive.google.com/file/d/1w2HJnSb8Gg1ZIb_UucNp58fyLdVSR-uE/view?usp=drive_link)***\
+***Example video of generalized manipulation in moving wafer can be found [here](https://drive.google.com/file/d/1waoFm7D5GGTTWKZZJWSiJwRAxmDzBNkH/view?usp=drive_link)***
 
 <span style="font-size: 22px; font-weight: bold;">Auto-tuning Bipedal Robot MPC Controller under Challenge Terrian with DiffTune</span>\
 ***Research Assistant, Advanced Controls and Research Laboratory, UIUC***\
@@ -28,7 +28,7 @@ author_profile: true
 • Developed a legged robot MPC controller auto-tuning framework that conducts sensitivity analysis on bipedal robot’s stance force over MPC parameters. Auto-tuning MPC decreased the control smooth loss and tracking loss up to 40% compared to hand-tunned MPC.\
 • Trained a ground reaction force & moment network with real sensor data that maps MPC solution to real ground reactions to decrease sim-toreal error.\
 • The work has been submitted to ICRA 2025 and is under review now.
-![HECTOR-DiffTune](HECTOR-DiffTune.png)\
+![HECTOR-DiffTune](HECTOR-DiffTune.png)
 
 <span style="font-size: 22px; font-weight: bold;">Deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
 ***Internship project in Unitree Robotics***\
@@ -40,7 +40,7 @@ author_profile: true
 • Developed the quadrupedal robot learning-based locomotion and controls model deployment program with C++\
 • Conduct quadrupedal robot multi-gaits walking test using trained deep reinforcement learning control policy and analyzed the test data for sim-to-real evaluation\
 • Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter, increasing the estimation accuracy by 23%\
-***Example video can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/unitree_video.mp4)***
+***Example video can be found [here](https://drive.google.com/file/d/1OUf8Wrbht3HmdYwQTq5PE5TqLuE_7TBa/view?usp=drive_link)***
 
 <span style="font-size: 22px; font-weight: bold;">Development on Autonomous Unmanned Aerial Vehicles (UAV)</span>\
 <!-- **Development on Autonomous Unmanned Aerial Vehicles (UAV)**\ -->
@@ -55,8 +55,7 @@ We propose a framework for fast trajectory planning for unmanned aerial vehicles
 • Co-designed and manufactured the prototype of omnidrone, a new type of fully-actuated UAV with six motors\
 • Designed and conducted experiments to evaluate different motors’ thrust- and torque-throttle curves under different battery conditions based on NI-DAQ and LabView
 
-<span style="font-size: 22px; font-weight: bold;">Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images</span>\
-<!-- **Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images**\ -->
+<!-- <span style="font-size: 22px; font-weight: bold;">Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images</span>\
 ***Team Leader, Course Project of CS 229 Machine Learning***\
 ![cs229](cs229_plot.png){:width="700px" height="700px"}\
 Computer vision techniques have been widely employed to solve various image analysis problems, especially in the world of medecine. Deep learning and computer vision provide precious tools for early diagnosis of multiple diseases using medical imagery. In this project, we focus on developing models to detect glaucoma using OCT eye fundus images.Our dataset consists of 650 labeled eye-fundus images and a small table of extracted features for each of the images, and both the images and the extracted features were used to run the deep learning models. Model evaluation was performed using F1 score, precision and recall metrics.\
@@ -65,7 +64,7 @@ Computer vision techniques have been widely employed to solve various image anal
 • Conduct training with 3 CNN models (ResNet101, VGG16, MobileNet) on preprocessed dataset\
 • Aiming at small dataset (500 images), conduct different methods including data augmentation, different splitting, fine-tunning the pre-trained model and cross validation, increasing the detection precision by 7%\
 • Trained the images with Vision Transformer, achieving detection precision of 75%\
-***Project final paper can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_final_project.pdf), poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_poster.pdf)***
+***Project final paper can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_final_project.pdf), poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_poster.pdf)*** -->
 
 <span style="font-size: 22px; font-weight: bold;">Intelligent Sign Language Robot Development</span>\
 <!-- **Intelligent Sign Language Robot Development** -->
@@ -79,7 +78,7 @@ This project proposes a novel intelligent assistant to help people with speech o
 • Designed and developed the sign language robot hardware system, including a 17 degrees of freedom dexterous bionic hand, a STM-32 microcontroller, a NVIDIA Jetson Nano onboard computer\
 • Developed the control algorithm and program of the robot, designed the movement of each joint motor based on standard American Sign Language\
 • Co-developed the image detection program to identify customer’s sign based on YOLO-V5\
-***Project final paper can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/ECE445_Final_Report.pdf), demonstration video can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/ECE445_video.mp4)***
+***Project final paper can be found [here](https://drive.google.com/file/d/1mnk5YirWb77lcwkhLb_cmm7YCQLdiA72/view?usp=drive_link), demonstration video can be found [here](https://drive.google.com/file/d/1kWU5nPmgQ7a-DfJn8wU52hsSgrz2sr6i/view?usp=drive_link)***
 
 
 
