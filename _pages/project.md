@@ -13,7 +13,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
 
 <div class="publication" style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="height: 260px; width: 300px; margin-right: 20px; border-radius: 8px;">
-  <div>
+  <div style="min-height: 260px; display: flex; flex-direction: column; justify-content: flex-start;">
     <strong>Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization</strong><br>
     <strong>Q. Chen</strong>, S. Cheng, N. Hovakimyan<br>
     <em>IEEE Robotics and Automation Letters</em>, vol. 8, no. 6, pp. 3860–3867, 2023<br>
@@ -29,7 +29,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
 
 <div class="publication" style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/publications/gradnav.png" alt="GRaD-Nav" style="height: 260px; width: 300px; margin-right: 20px; border-radius: 8px;">
-  <div>
+  <div style="min-height: 260px; display: flex; flex-direction: column; justify-content: flex-start;">
     <strong>GRaD-Nav: Efficiently learning visual drone navigation with Gaussian radiance fields and differentiable dynamics</strong><br>
     <strong>Q. Chen</strong>, J. Sun, N. Gao, J. Low, T. Chen, M. Schwager<br>
     <em>Under review at IROS 2025</em><br>
@@ -41,7 +41,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
 
 <div class="publication" style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/publications/difftune.png" alt="Difftune" style="height: 260px; width: 300px; margin-right: 20px; border-radius: 8px;">
-  <div>
+  <div style="min-height: 260px; display: flex; flex-direction: column; justify-content: flex-start;">
     <strong>Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer</strong><br>
     <strong>Q. Chen</strong>, J. Li, S. Cheng, N. Hovakimyan, Q. Nguyen<br>
     <em>Under review at IROS 2025</em><br>
