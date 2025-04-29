@@ -1,52 +1,86 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Project"
+permalink: /project/
 author_profile: true
 ---
 
-An updated list of all publications can be found on my <a href="https://scholar.google.com/citations?user=MqU82XsAAAAJ&hl=en" target="_blank">Google Scholar</a> profile.
+<!-- add a statement of research problems that I want to solve here. -->
 
----
+<!-- Current projects -->
+------
+<span style="font-size: 22px; font-weight: bold;">Embodied AI for biotech experiments robot</span>\
+***Internship project in Centrillion Technology***\
+![aloha](aloha.png)\
+**keywords**: Embodied AI, Imitation Learning, LLM, Biotech Experimental Robot\
+• Use Mobile-ALOHA platform to to collect expert trajectories (more than 500 episodes per subtask) to build a dataset with 15+ subtasks.\
+• Use ACT algorithm to train 15+ biological experiment fine operation subtasks. Single subtask duration 10-20s, success rate of more than 80%, with basic generalization and adaptive ability.\
+• Design an embodied AI framework using LLM and imitation learning, conducting high-level task planning, estimating the success of the previous subtask, and executing the sequenced subtask under the premise of safety to ensure seamless integration of robot functions in the complex experimental workflow.\
+***Example video of LLM driven embodied AI (manuplation + base moving) can be found [here](https://drive.google.com/file/d/1XSHLkXdIRGrEZxlZRDkWru8o1O3jLeX9/view?usp=drive_link)***\
+***Example video of generalized pick-and-place task can be found [here](https://drive.google.com/file/d/14YjudulALLU_JMGQg8YcTkDmS6lZ1anB/view?usp=drive_link)***\
+***Example video of using syringe to conduct biochemical experimet task can be found [here](https://drive.google.com/file/d/15AofR7PzeYGGHIEEX-_tJGUKxhGhJ8Ov/view?usp=drive_link)***\
+***Example video of accurate manipulation in moving wafer can be found [here](https://drive.google.com/file/d/1w2HJnSb8Gg1ZIb_UucNp58fyLdVSR-uE/view?usp=drive_link)***\
+***Example video of generalized manipulation in moving wafer can be found [here](https://drive.google.com/file/d/1waoFm7D5GGTTWKZZJWSiJwRAxmDzBNkH/view?usp=drive_link)***
 
-## Journal Articles
+<!-- <span style="font-size: 22px; font-weight: bold;">Auto-tuning Bipedal Robot MPC Controller under Challenge Terrian with DiffTune</span>\
+***Research Assistant, Advanced Controls and Research Laboratory, UIUC***\
+***Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineering Department, UIUC & Dr. Quan Nguyen, Assistant Professor of Aerospace and Mechanical Engineering, USC***\
+• Developed a legged robot MPC controller auto-tuning framework that conducts sensitivity analysis on bipedal robot’s stance force over MPC parameters. Auto-tuning MPC decreased the control smooth loss and tracking loss up to 40% compared to hand-tunned MPC.\
+• Trained a ground reaction force & moment network with real sensor data that maps MPC solution to real ground reactions to decrease sim-toreal error.\
+• The work has been submitted to IROS 2025 and is under review now.
+![HECTOR-DiffTune](HECTOR-DiffTune.png) -->
 
-<div class="publication" style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="height: 260px; width: 300px; margin-right: 20px; border-radius: 8px;">
-  <div style="min-height: 260px; display: flex; flex-direction: column; justify-content: flex-start;">
-    <strong>Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization</strong><br>
-    <strong>Q. Chen</strong>, S. Cheng, N. Hovakimyan<br>
-    <em>IEEE Robotics and Automation Letters</em>, vol. 8, no. 6, pp. 3860–3867, 2023<br>
-    <a href="https://ieeexplore.ieee.org/document/10117594" target="_blank">link</a> |
-    <a href="https://arxiv.org/abs/2211.15902" target="_blank">arXiv</a><br><br>
-    <strong>TLDR:</strong> Proposes a bilevel optimization framework for jointly assigning UAV waypoints in space and time to achieve efficient navigation through constrained environments.
-  </div>
-</div>
+<span style="font-size: 22px; font-weight: bold;">Deep reinforcement learning based quadrupedal robot control and locomotion development</span>\
+***Internship project in Unitree Robotics***\
+![unitree_1](unitree_1.png)\
+ Deep reinforcement learning involves training a robot to navigate and control its movements by learning from its interactions with the environment. The project focuses on the development of robot locomotion and controls through the implementation of deep reinforcement learning (DRL) techniques. The project aims to enhance the robustness, efficiency, and adaptability of robotic systems, paving the way for more sophisticated and autonomous robots capable of navigating complex environments with precision and intelligence.\
+ *What I have done in this project:*\
+• Developed the novel quadrupedal robot locomotion and controls framework with deep reinforcement learning that increases the robot payload by 15% compared with traditional model-based control framework\
+• Trained the quadrupedal robot locomotion and controls policy based on deep reinforcement learning with Isaac Gym\
+• Developed the quadrupedal robot learning-based locomotion and controls model deployment program with C++\
+• Conduct quadrupedal robot multi-gaits walking test using trained deep reinforcement learning control policy and analyzed the test data for sim-to-real evaluation\
+• Developed the quadrupedal robot state estimator using sensor fusion techniques based on Extended Kalman Filter, increasing the estimation accuracy by 23%\
+***Example video can be found [here](https://drive.google.com/file/d/1OUf8Wrbht3HmdYwQTq5PE5TqLuE_7TBa/view?usp=drive_link)***
 
----
+<!-- <span style="font-size: 22px; font-weight: bold;">Development on Autonomous Unmanned Aerial Vehicles (UAV)</span>\
+***Research Assistant, Advanced Controls and Research Laboratory, UIUC***\
+***Supervisor: Dr. Naira Hovakimyan, Professor of Mechanical Science and Engineering Department, UIUC***\
 
-## Preprints
+![ral_gif_1](RAL_1.gif)\
+We propose a framework for fast trajectory planning for unmanned aerial vehicles (UAVs). Our framework is reformulated from an existing bilevel optimization, in which the lower-level problem solves for the optimal trajectory with a fixed time allocation, whereas the upper-level problem updates the time allocation using analytical gradients. The lower-level problem incorporates the safety-set constraints (in the form of inequality constraints) and is cast as a convex quadratic program (QP). Our formulation modifies the lower-level QP by excluding the inequality constraints for the safety sets, which significantly reduces the computation time. The safety-set constraints are moved to the upper-level problem, where the feasible waypoints are updated together with the time allocation using analytical gradients enabled by the OptNet. We validate our approach in simulations, where our method's computation time scales linearly with respect to the number of safety sets, in contrast to the state-of-the-art that scales exponentially.\
+ *What I have done in this project:*\
+• Developed a collision-free bilevel trajectory optimization system with optimal waypoints’ temporal and spatial assignment for autonomous quadrotor’s motion planning based on convex optimization, increasing the computational efficiency by 150%. The work has been published on IEEE RA-L and presented on IROS 2023, the paper can be found [here](https://ieeexplore.ieee.org/document/10117594)\
+• Deployed the trajectory generation program together with path planning system on Nvidia TX2 onboard computer\
+• Co-designed and manufactured the prototype of omnidrone, a new type of fully-actuated UAV with six motors\
+• Designed and conducted experiments to evaluate different motors’ thrust- and torque-throttle curves under different battery conditions based on NI-DAQ and LabView -->
 
-<div class="publication" style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/publications/gradnav.png" alt="GRaD-Nav" style="height: 260px; width: 300px; margin-right: 20px; border-radius: 8px;">
-  <div style="min-height: 260px; display: flex; flex-direction: column; justify-content: flex-start;">
-    <strong>GRaD-Nav: Efficiently learning visual drone navigation with Gaussian radiance fields and differentiable dynamics</strong><br>
-    <strong>Q. Chen</strong>, J. Sun, N. Gao, J. Low, T. Chen, M. Schwager<br>
-    <em>Under review at IROS 2025</em><br>
-    <a href="https://arxiv.org/abs/2503.03984" target="_blank">arXiv</a> |
-    <a href="https://qianzhong-chen.github.io/gradnav.github.io/" target="_blank">project</a><br><br>
-    <strong>TLDR:</strong> We propose a vision-based drone navigation framework that leverages differentiable dynamics and Gaussian radiance fields for sample-efficient learning and robust generalization.
-  </div>
-</div>
+<!-- <span style="font-size: 22px; font-weight: bold;">Deep Learning for Glaucoma (an ophthalmic disease) Detection with Medical Images</span>\
+***Team Leader, Course Project of CS 229 Machine Learning***\
+![cs229](cs229_plot.png){:width="700px" height="700px"}\
+Computer vision techniques have been widely employed to solve various image analysis problems, especially in the world of medecine. Deep learning and computer vision provide precious tools for early diagnosis of multiple diseases using medical imagery. In this project, we focus on developing models to detect glaucoma using OCT eye fundus images.Our dataset consists of 650 labeled eye-fundus images and a small table of extracted features for each of the images, and both the images and the extracted features were used to run the deep learning models. Model evaluation was performed using F1 score, precision and recall metrics.\
+ *What I have done in this project:*\
+• Preprocessed medical images, including image resizing, noise reduction, essential feature extraction\
+• Conduct training with 3 CNN models (ResNet101, VGG16, MobileNet) on preprocessed dataset\
+• Aiming at small dataset (500 images), conduct different methods including data augmentation, different splitting, fine-tunning the pre-trained model and cross validation, increasing the detection precision by 7%\
+• Trained the images with Vision Transformer, achieving detection precision of 75%\
+***Project final paper can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_final_project.pdf), poster can be found [here](https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/files/cs229_poster.pdf)*** -->
 
-<div class="publication" style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/publications/difftune.png" alt="Difftune" style="height: 260px; width: 300px; margin-right: 20px; border-radius: 8px;">
-  <div style="min-height: 260px; display: flex; flex-direction: column; justify-content: flex-start;">
-    <strong>Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer</strong><br>
-    <strong>Q. Chen</strong>, J. Li, S. Cheng, N. Hovakimyan, Q. Nguyen<br>
-    <em>Under review at IROS 2025</em><br>
-    <a href="https://arxiv.org/abs/2409.15710" target="_blank">arXiv</a> |
-    <a href="https://sites.google.com/view/difftune-hector/home" target="_blank">project</a><br><br>
-    <strong>TLDR:</strong> This work introduces GRFM-Net for modeling bipedal robot actuation and proposes an MPC autotuning pipeline that enables robust sim-to-real locomotion transfer.
-  </div>
-</div>
+<span style="font-size: 22px; font-weight: bold;">Intelligent Sign Language Robot Development</span>\
+<!-- **Intelligent Sign Language Robot Development** -->
+***Team Leader, Capstone Project of ZJU-UIUC Institute***\
+<!-- ![ECE445_1](ECE445_1.png =100x20) ![ECE445_2](ECE445_2.png =100x20)  -->
+<!-- <img src="https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/_pages/ECE445_1.png" width="200" height="200" /> <img src="https://github.com/Qianzhong-Chen/Qianzhong-Chen.github.io/blob/master/_pages/ECE445_2.png" width="200" height="200" />\ -->
+<!-- <img src="ECE445_1.png" width="200" height="200" /> <img src="ECE445_2.png" width="200" height="200" />\ -->
+![ECE445_1](ECE445_1.png){:width="400px" height="400px"} ![ECE445_2](ECE445_2.png){:width="400px" height="400px"}\
+This project proposes a novel intelligent assistant to help people with speech or hearing impairments communicate and seek help. The intelligent assistant includes a bionic hand of 17 degrees of freedom (DOFs) and an innovative neural network that recognizes American Sign Language (ASL). The users can prompt a question in ASL, and the assistant would recognize the problem and search for the answer online, answering and helping the user with ASL co-generated by the microcontroller unit and the bionic hand. Meanwhile, the answer would be demonstrated on a digital screen for inspection.\
+*What I have done in this project:*\
+• Designed and developed the sign language robot hardware system, including a 17 degrees of freedom dexterous bionic hand, a STM-32 microcontroller, a NVIDIA Jetson Nano onboard computer\
+• Developed the control algorithm and program of the robot, designed the movement of each joint motor based on standard American Sign Language\
+• Co-developed the image detection program to identify customer’s sign based on YOLO-V5\
+***Project final paper can be found [here](https://drive.google.com/file/d/1mnk5YirWb77lcwkhLb_cmm7YCQLdiA72/view?usp=drive_link), demonstration video can be found [here](https://drive.google.com/file/d/1kWU5nPmgQ7a-DfJn8wU52hsSgrz2sr6i/view?usp=drive_link)***
+
+
+
+
+
+
