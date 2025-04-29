@@ -12,7 +12,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
 ## Journal Articles
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="width: 180px; height: 130px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization</strong><br>
     <strong>Q. Chen</strong>, S. Cheng, N. Hovakimyan<br>
@@ -28,7 +28,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
 ## Preprints
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/gradnav.png" alt="GRaD-Nav" style="width: 180px; height: 130px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <img src="/images/publications/gradnav.png" alt="GRaD-Nav" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>GRaD-Nav: Efficiently learning visual drone navigation with Gaussian radiance fields and differentiable dynamics</strong><br>
     <strong>Q. Chen</strong>, J. Sun, N. Gao, J. Low, T. Chen, M. Schwager<br>
@@ -40,7 +40,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
 </div>
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/difftune.png" alt="Difftune" style="width: 180px; height: 130px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <img src="/images/publications/difftune.png" alt="Difftune" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer</strong><br>
     <strong>Q. Chen</strong>, J. Li, S. Cheng, N. Hovakimyan, Q. Nguyen<br>
