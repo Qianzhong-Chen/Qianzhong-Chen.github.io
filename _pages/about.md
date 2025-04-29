@@ -26,14 +26,14 @@ Recent news
 Honors and awards
 ------
 
-* Stanford Aero/Astro Fellowship (2025)
+* Stanford Aero/Astro PhD Fellowship (2025)
 * Outstanding Undergraduate Thesis Award, Department of Mechanical Engineering, Zhejiang University (2023) 
 * First Class Academic Scholarship of ZJU-UIUC Institute (**Top 2%**) (2022)
 
 <!-- * Dean's List of UIUC (2022) -->
 
-<!-- Service
+Service
 ------
-* Journal Reviewer: IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics
-* Conference Reviewer: CoRL, ICRA, IROS, IFAC WC, CDC, ACC, and DARS-SWARM
-* Member of the IEEE CSS Technical Committee on Intelligent Control -->
+<!-- * Journal Reviewer: IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics -->
+* Conference Reviewer: IROS (2025)
+* Member of the IEEE Robotics and Automation Society
