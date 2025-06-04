@@ -9,7 +9,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
 
 ---
 
-## Journal Articles
+<!-- ## Journal Articles
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
@@ -21,7 +21,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <a href="https://arxiv.org/abs/2211.15902" target="_blank">arXiv</a><br><br>
     <strong>TLDR:</strong> Proposes a bilevel optimization framework for jointly assigning UAV waypoints in space and time to achieve efficient navigation through constrained environments.
   </div>
-</div>
+</div> -->
 
 ---
 
