@@ -89,7 +89,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MqU82XsAAAAJ&hl=en"
   email            : "qchen23@stanford.edu"
-  researchgate     : "https://www.researchgate.net/profile/Qianzhong-Chen"
+  researchgate     : # "https://www.researchgate.net/profile/Qianzhong-Chen"
   uri              : "https://profiles.stanford.edu/intranet/qianzhong-chen?releaseVersion=10.5.2"
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "qianzhong-chen-9bab01209"
-  orcid            : "https://orcid.org/0009-0001-5318-7580"
+  orcid            : # "https://orcid.org/0009-0001-5318-7580"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
