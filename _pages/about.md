@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Thank you for visiting my website. I'm a second year Master's student at Stanford studying Mechanical Engineering. Currently, I am a research assistant at [Stanford-MSL](https://msl.stanford.edu/) working with [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). My interests and background are across robot VLA model, learning based control, autonomy robot visual navigation, and embodied AI. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and University of Illinois Urbana-Champaign in 2023. My Curriculum Vitae can be found [here](https://drive.google.com/file/d/1C-ZETuKIvS6ye5YMMFgNfAMDpLOJPr2Y/view?usp=sharing) (updated April 2025).
+Hello! Thank you for visiting my website. I'm a second year Master's student at Stanford studying Mechanical Engineering. Currently, I am a research assistant at [Stanford-MSL](https://msl.stanford.edu/) working with [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). My interests and background are across robot VLA model, learning based control, autonomy robot visual navigation, and embodied AI. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and University of Illinois Urbana-Champaign in 2023. 
+
+<!-- My Curriculum Vitae can be found [here](https://drive.google.com/file/d/1C-ZETuKIvS6ye5YMMFgNfAMDpLOJPr2Y/view?usp=sharing) (updated April 2025). -->
 
 Recent news
 ------
