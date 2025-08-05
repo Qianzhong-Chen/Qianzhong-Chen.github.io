@@ -7,16 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Thank you for visiting my website. I'm a second year Master's student at Stanford studying Mechanical Engineering. Currently, I am a research assistant at [Stanford-MSL](https://msl.stanford.edu/) working with [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). My interests and background are across robot VLA model, learning based control, autonomy robot visual navigation, and embodied AI. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and University of Illinois Urbana-Champaign in 2023. 
+Hello! Thank you for visiting my website. I'm a second year Master's student at Stanford studying Mechanical Engineering. Currently, I am a research assistant at [Stanford-MSL](https://msl.stanford.edu/) working with [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). My interests and background are across robot VLA model, world model, autonomous robot visual navigation, and embodied AI. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. 
 
-My Curriculum Vitae can be found [here](https://drive.google.com/file/d/1C-ZETuKIvS6ye5YMMFgNfAMDpLOJPr2Y/view?usp=sharing) (updated April 2025).
+My Curriculum Vitae can be found [here](https://drive.google.com/file/d/1hRjFMjWGBZIVApMoVQ9LwcmV5tMa3Pal/view?usp=sharing) (updated Aug. 2025).
 
 Recent news
 ------
+* 2025/08: Our new paper [ParticleFormer](https://suninghuang19.github.io/particleformer_page/) on 3D world model for manipulations has been accepted to CoRL 2025!
 * 2025/06: Our new paper [GRaD-Nav](https://qianzhong-chen.github.io/gradnav.github.io/) on drone end-to-end visual navigation has been accepted to IROS 2025!
 * 2025/06: Our new paper [DiffTune-HECTOR](https://sites.google.com/view/difftune-hector/home) on auto-tuning bipedal robots MPC controllers has been accepted to IROS 2025!
 * 2025/04: I was admitted to the [Aeronautics and Astronautics Department, Stanford University](https://aa.stanford.edu) as a PhD student, supervised by [Dr. Mac Schwager](https://web.stanford.edu/~schwager/).
-* 2024/06: I started a new role as robotics algorithm engineer at [Centrillion Technologies](https://www.centrilliontech.com/), focusing on building LLM-driven mobile manipulation robot for bio-science lab experiments assistance.  
+<!-- * 2024/06: I started a new role as robotics algorithm engineer at [Centrillion Technologies](https://www.centrilliontech.com/), focusing on building LLM-driven mobile manipulation robot for bio-science lab experiments assistance.   -->
   
 <!-- * 2024/02: I started a new role as research assistant at [Stanford-MSL](https://msl.stanford.edu/), my project is end-to-end mobile robot navigation and control policy based on 3DGS and differentiable RL. -->
 
@@ -39,5 +40,6 @@ Honors and awards
 Service
 ------
 <!-- * Journal Reviewer: IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics -->
+* Journal Articles Reviewer: RA-L (2025) 
 * Conference Reviewer: IROS (2025)
 * Member of the IEEE Robotics and Automation Society
