@@ -42,6 +42,17 @@ An updated list of all publications can be found on my <a href="https://scholar.
 ---
 
 ## Conferences
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/particle_former_website.jpg" alt="ParticleFormer" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong>[CoRL 2025] ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation</strong><br>
+    S. Huang, <strong>Q. Chen</strong>, X. Zhang, J. Sun, M. Schwager<br>
+    <a href="https://arxiv.org/abs/2506.23126" target="_blank">arXiv</a> |
+    <a href="https://suninghuang19.github.io/particleformer_page/" target="_blank">website</a> |
+    <a href="https://suninghuang19.github.io/particleformer_page/" target="_blank">code</a><br><br>
+    <strong>TLDR:</strong> A state-of-the-art 3D world model trained directly from point clouds, which enables accurate dynamics prediction across multi-object, multi-material scenarios and empowers model-based visuomotor control in robotic manipulation tasks.
+  </div>
+</div>
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/gradnav.png" alt="GRaD-Nav" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
