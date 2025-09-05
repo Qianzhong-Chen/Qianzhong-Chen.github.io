@@ -27,7 +27,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
   <img src="/images/publications/dojo.png" alt="Dojo" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong> Dojo: A Differentiable Physics Engine for Robotics</strong><br>
-    Taylor A. Howell, Simon Le Cleac'h, Jan Brüdigam, <strong>Qianzhong Chen</strong>, Jiankai Sun, J. Zico Kolter, Mac Schwager, Zachary Manchester<br>
+    T. Howell, S. Cleac'h, J. Brüdigam, <strong>Q. Chen</strong>, J. Sun, Z. Kolter, M. Schwager, Z. Manchester<br>
     <a href="https://arxiv.org/abs/2203.00806" target="_blank">arXiv</a> |
     <a href="https://dojo-sim.github.io/Dojo.jl/stable/index.html" target="_blank">website</a> |
     <a href="https://github.com/dojo-sim/Dojo.jl" target="_blank">code</a><br><br>
@@ -58,7 +58,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
   <img src="/images/publications/arch.png" alt="ARCH" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>[CoRL 2025] ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly</strong><br>
-    Jiankai Sun, Aidan Curtis, Yang You, Yan Xu, Michael Koehle, <strong>Qianzhong Chen</strong>, Suning Huang, Leonidas Guibas, Sachin Chitta, Mac Schwager, Hui Li<br>
+    J. Sun, A. Curtis, Y. You, Y. Xu, M. Koehle, <strong>Q. Chen</strong>, S. Huang, L. Guibas, S. Chitta, M. Schwager, H. Li<br>
     <a href="https://arxiv.org/abs/2409.16451" target="_blank">arXiv</a> |
     <a href="https://long-horizon-assembly.github.io/" target="_blank">website</a> |
     <a href="https://long-horizon-assembly.github.io/" target="_blank">code</a><br><br>
