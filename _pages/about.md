@@ -7,7 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Thank you for visiting my website. I'm a first year PhD student of [Stanford Aero-Astro Department](https://aa.stanford.edu/), supervised by [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). I also spent time at [Unitree](https://www.unitree.com/), [Centrillion](https://www.centrilliontech.com/) working as robotics engineering/research intern. My interests and background are across robot VLA model, world model, autonomous robot visual navigation, and legged robot locomotion. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
+Hello! Thank you for visiting my website. I'm a first year PhD student of [Stanford Aero-Astro Department](https://aa.stanford.edu/), supervised by [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). 
+
+I also spent time at [Unitree](https://www.unitree.com/), [Centrillion](https://www.centrilliontech.com/) working as robotics engineering/research intern. 
+
+My interests and background are across robot VLA model, world model, autonomous robot visual navigation, and legged robot locomotion. 
+
+I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
 
 My Curriculum Vitae can be found [here](https://drive.google.com/file/d/1hRjFMjWGBZIVApMoVQ9LwcmV5tMa3Pal/view?usp=sharing) (updated Aug. 2025).
 
