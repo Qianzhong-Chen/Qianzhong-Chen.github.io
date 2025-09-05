@@ -12,14 +12,26 @@ An updated list of all publications can be found on my <a href="https://scholar.
 ## Preprints
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/grad_nav_pp.png" alt="UAV traj" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong> GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
     <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
     <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
     <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">website</a> |
     <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">code</a><br><br>
-    <strong>TLDR:</strong> GRaD-Nav++ is a lightweight, fully onboard Vision-Language-Action framework that enables drones to follow natural language commands in real time using DiffRL training in a 3DGS simulator, achieving strong generalization across tasks and environments both in simulation and on real hardware.
+    <strong>TL;DR:</strong> GRaD-Nav++ is a lightweight, fully onboard Vision-Language-Action framework that enables drones to follow natural language commands in real time using DiffRL training in a 3DGS simulator, achieving strong generalization across tasks and environments both in simulation and on real hardware.
+  </div>
+</div>
+
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/dojo.png" alt="Dojo" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong> Dojo: A Differentiable Physics Engine for Robotics</strong><br>
+    Taylor A. Howell, Simon Le Cleac'h, Jan Brüdigam, <strong>Qianzhong Chen</strong>, Jiankai Sun, J. Zico Kolter, Mac Schwager, Zachary Manchester<br>
+    <a href="https://arxiv.org/abs/2203.00806" target="_blank">arXiv</a> |
+    <a href="https://dojo-sim.github.io/Dojo.jl/stable/index.html" target="_blank">website</a> |
+    <a href="https://github.com/dojo-sim/Dojo.jl" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> Dojo is a differentiable physics engine that solves contact dynamics with a custom interior-point method, offering stable simulation and smooth gradients for robotics tasks such as trajectory optimization, policy learning, and system identification.
   </div>
 </div>
 
@@ -35,13 +47,25 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <em>IEEE Robotics and Automation Letters</em>, vol. 8, no. 6, pp. 3860–3867, 2023<br>
     <a href="https://ieeexplore.ieee.org/document/10117594" target="_blank">link</a> |
     <a href="https://arxiv.org/abs/2211.15902" target="_blank">arXiv</a><br><br>
-    <strong>TLDR:</strong> Proposes a bilevel optimization framework for jointly assigning UAV waypoints in space and time to achieve efficient navigation through constrained environments.
+    <strong>TL;DR:</strong> Proposes a bilevel optimization framework for jointly assigning UAV waypoints in space and time to achieve efficient navigation through constrained environments.
   </div>
 </div>
 
 ---
 
 ## Conferences
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/arch.png" alt="ARCH" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong>[CoRL 2025] ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly</strong><br>
+    Jiankai Sun, Aidan Curtis, Yang You, Yan Xu, Michael Koehle, <strong>Qianzhong Chen</strong>, Suning Huang, Leonidas Guibas, Sachin Chitta, Mac Schwager, Hui Li<br>
+    <a href="https://arxiv.org/abs/2409.16451" target="_blank">arXiv</a> |
+    <a href="https://long-horizon-assembly.github.io/" target="_blank">website</a> |
+    <a href="https://long-horizon-assembly.github.io/" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> ARCH is a hierarchical modular framework that combines imitation learning and reinforcement learning primitives with a high-level policy to enable data-efficient, high-precision, and generalizable long-horizon robotic assembly.
+  </div>
+</div>
+
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/particle_former_website.jpg" alt="ParticleFormer" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
@@ -50,7 +74,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <a href="https://arxiv.org/abs/2506.23126" target="_blank">arXiv</a> |
     <a href="https://suninghuang19.github.io/particleformer_page/" target="_blank">website</a> |
     <a href="https://suninghuang19.github.io/particleformer_page/" target="_blank">code</a><br><br>
-    <strong>TLDR:</strong> A state-of-the-art 3D world model trained directly from point clouds, which enables accurate dynamics prediction across multi-object, multi-material scenarios and empowers model-based visuomotor control in robotic manipulation tasks.
+    <strong>TL;DR:</strong> A state-of-the-art 3D world model trained directly from point clouds, which enables accurate dynamics prediction across multi-object, multi-material scenarios and empowers model-based visuomotor control in robotic manipulation tasks.
   </div>
 </div>
 
@@ -62,7 +86,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <a href="https://arxiv.org/abs/2503.03984" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/gradnav.github.io/" target="_blank">website</a> |
     <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
-    <strong>TLDR:</strong> We propose a vision-based drone navigation framework that leverages differentiable dynamics and Gaussian radiance fields for sample-efficient learning and robust generalization.
+    <strong>TL;DR:</strong> We propose a vision-based drone navigation framework that leverages differentiable dynamics and Gaussian radiance fields for sample-efficient learning and robust generalization.
   </div>
 </div>
 
@@ -73,6 +97,6 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <strong>Q. Chen</strong>, J. Li, S. Cheng, N. Hovakimyan, Q. Nguyen<br>
     <a href="https://arxiv.org/abs/2409.15710" target="_blank">arXiv</a> |
     <a href="https://sites.google.com/view/difftune-hector/home" target="_blank">website</a><br><br>
-    <strong>TLDR:</strong> This work introduces GRFM-Net for modeling bipedal robot actuation and proposes an MPC autotuning pipeline that enables robust sim-to-real locomotion transfer.
+    <strong>TL;DR:</strong> This work introduces GRFM-Net for modeling bipedal robot actuation and proposes an MPC autotuning pipeline that enables robust sim-to-real locomotion transfer.
   </div>
 </div>

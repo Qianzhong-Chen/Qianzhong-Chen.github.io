@@ -7,12 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Thank you for visiting my website. I'm a second year Master's student at Stanford studying Mechanical Engineering. Currently, I am a research assistant at [Stanford-MSL](https://msl.stanford.edu/) working with [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). My interests and background are across robot VLA model, world model, autonomous robot visual navigation, and embodied AI. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. 
+Hello! Thank you for visiting my website. I'm a first year PhD student of [Stanford Aero-Astro Department](https://aa.stanford.edu/), supervised by [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). I also spent time at [Unitree](https://www.unitree.com/), [Centrillion](https://www.centrilliontech.com/) working as robotics engineering/research intern. My interests and background are across robot VLA model, world model, autonomous robot visual navigation, and legged robot locomotion. I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
 
 My Curriculum Vitae can be found [here](https://drive.google.com/file/d/1hRjFMjWGBZIVApMoVQ9LwcmV5tMa3Pal/view?usp=sharing) (updated Aug. 2025).
 
+Feel free to contact me via email, linkedin (both on the side bar) or add my WeChat: CQZ_David.
+
 Recent news
 ------
+* 2025/08: Our new paper [ARCH](https://long-horizon-assembly.github.io/) on RL for manipulations has been accepted to CoRL 2025!
 * 2025/08: Our new paper [ParticleFormer](https://suninghuang19.github.io/particleformer_page/) on 3D world model for manipulations has been accepted to CoRL 2025!
 * 2025/06: Our new paper [GRaD-Nav](https://qianzhong-chen.github.io/gradnav.github.io/) on drone end-to-end visual navigation has been accepted to IROS 2025!
 * 2025/06: Our new paper [DiffTune-HECTOR](https://sites.google.com/view/difftune-hector/home) on auto-tuning bipedal robots MPC controllers has been accepted to IROS 2025!
@@ -31,9 +34,9 @@ Recent news
 Honors and awards
 ------
 
-* Stanford Aero/Astro PhD Fellowship (2025)
+* Stanford Aero-Astro PhD Fellowship (2025)
 * Outstanding Undergraduate Thesis Award, Department of Mechanical Engineering, Zhejiang University (2023) 
-* First Class Academic Scholarship of ZJU-UIUC Institute (**Top 2%**) (2022)
+* First Class Academic Scholarship of ZJU-UIUC Institute (**Top 1%**) (2022)
 
 <!-- * Dean's List of UIUC (2022) -->
 
