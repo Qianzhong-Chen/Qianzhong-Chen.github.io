@@ -80,10 +80,9 @@ social:
 
 # Site Author
 author:
-  name             : "Qianzhong Chen 
-  (陈钱中)"
+  name             : "Qianzhong Chen (陈钱中)"
   avatar           : "bio_cqz_stanford.png"
-  bio              : "Master's Student at Stanford"
+  bio              : "PhD Student at Stanford"
   location         : "Palo Alto, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -110,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "https://twitter.com/_ShengCheng"
+  twitter          :  "https://x.com/QianzhongChen"
   vine             :
   weibo            :
   xing             :
