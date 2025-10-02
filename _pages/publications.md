@@ -12,6 +12,18 @@ An updated list of all publications can be found on my <a href="https://scholar.
 ## Preprints
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/sarm.png" alt="sarm" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong> SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
+    <strong>Q. Chen</strong>, J. Yu, M. Schwager, P. Abbeel, F. Shentu, P. Wu<br>
+    <a href="https://arxiv.org/abs/2509.25358" target="_blank">arXiv</a> |
+    <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">website</a> |
+    <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> SARM is a stage-aware, video-based reward modeling framework that enables scalable and robust imitation learning for long-horizon tasks by deriving progress signals from natural language annotations, dramatically improving policy performance over standard behavior cloning.
+  </div>
+</div>
+
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong> GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
