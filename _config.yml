@@ -8,12 +8,12 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Qianzhong Chen"
-title_separator          : "-"
-name                     : &name "Qianzhong(David) Chen"
-description              : &description "Master's Student studying Mechanical Engineering at Stanford"
+title_separator          : "."
+name                     : "Qianzhong Chen"
+description              : "PhD Student at Stanford Aero-Astro"
 url                      : "https://qianzhong-chen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Qianzhong-Chen.github.io"
+repository               : "Qianzhong-Chen/qianzhong-chen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=MqU82XsAAAAJ&hl=en"
   email            : "qchen23@stanford.edu"
   researchgate     : # "https://www.researchgate.net/profile/Qianzhong-Chen"
-  uri              : "https://profiles.stanford.edu/intranet/qianzhong-chen?releaseVersion=10.5.2"
+  uri              : # "https://profiles.stanford.edu/intranet/qianzhong-chen?releaseVersion=10.5.2"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :  "https://x.com/QianzhongChen"
+  twitter          :  "QianzhongChen"
   vine             :
   weibo            :
   xing             :

@@ -1,23 +1,23 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Qianzhong Chen's Website"
+excerpt: "Qianzhong Chen's Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello! Thank you for visiting my website. I'm a first year PhD student of [Stanford Aero-Astro Department](https://aa.stanford.edu/), supervised by [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/) working with [Dr. Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and [Dr. Sheng Cheng](https://sheng-cheng.github.io/). 
+I'm a first year PhD student of [Stanford Aero-Astro Department](https://aa.stanford.edu/), advised by Dr. [Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/), advised by Dr. [Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and Dr. [Sheng Cheng](https://sheng-cheng.github.io/). 
 
-I also spent time at [xdof.ai](https://www.xdof.ai/), [Unitree](https://www.unitree.com/), [Centrillion](https://www.centrilliontech.com/) working as robotics engineering/research intern. My supervisors include [Philipp Wu](https://wuphilipp.github.io/) (xdof.ai), [Fred Shentu](https://fredshentu.github.io/) (xdof.ai).
+I also spent time at [xdof.ai](https://www.xdof.ai/), [Unitree](https://www.unitree.com/), [Centrillion](https://www.centrilliontech.com/) working as robotics engineering/research intern. I was fortunate to be advised by [Philipp Wu](https://wuphilipp.github.io/) (xdof.ai), [Fred Shentu](https://fredshentu.github.io/) (xdof.ai).
 
-My interests and background are across robot VLA model, world model, autonomous robot visual navigation, and legged robot locomotion. 
+My interests and background are across robot VLA model, world model, progress-based reward model, and autonomous drones visual navigation. 
 
 I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
 
 My Curriculum Vitae can be found [here](https://drive.google.com/file/d/1i3HcgMSfIfz7L-88KApjTb-uXEJ-X7VS/view?usp=sharing) (updated Oct. 2025).
 
-Feel free to contact me via email, linkedin (both on the side bar) or wechat: CQZ_David.
+Feel free to contact me via email, linkedin (both on the side bar) or WeChat: CQZ_David.
 
 Recent news
 ------
@@ -49,6 +49,6 @@ Honors and awards
 Service
 ------
 <!-- * Journal Reviewer: IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics -->
-* Journal Articles Reviewer: RA-L (2025) 
-* Conference Reviewer: IROS (2025)
+* Journal Articles Reviewer: IEEE RA-L (2025), IEEE IoT (2025)  
+* Conference Reviewer: IROS (2025), ICRA (2026) 
 * Member of the IEEE Robotics and Automation Society
