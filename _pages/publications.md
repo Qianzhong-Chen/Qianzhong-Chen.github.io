@@ -24,18 +24,6 @@ An updated list of all publications can be found on my <a href="https://scholar.
 </div>
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong> GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
-    <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
-    <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
-    <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">website</a> |
-    <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> GRaD-Nav++ is a lightweight, fully onboard Vision-Language-Action framework that enables drones to follow natural language commands in real time using DiffRL training in a 3DGS simulator, achieving strong generalization across tasks and environments both in simulation and on real hardware.
-  </div>
-</div>
-
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/dojo.png" alt="Dojo" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong> Dojo: A Differentiable Physics Engine for Robotics</strong><br>
@@ -50,6 +38,19 @@ An updated list of all publications can be found on my <a href="https://scholar.
 ---
 
 ## Journal Articles
+
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong> [RA-L 2025] GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
+    <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
+    <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
+    <a href="https://qianzhong-chen.github.io/gradnavpp.github.io/" target="_blank">website</a> |
+    <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> GRaD-Nav++ is a lightweight, fully onboard Vision-Language-Action framework that enables drones to follow natural language commands in real time using DiffRL training in a 3DGS simulator, achieving strong generalization across tasks and environments both in simulation and on real hardware.
+  </div>
+</div>
+
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">

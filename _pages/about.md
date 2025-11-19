@@ -21,6 +21,7 @@ Feel free to contact me via email, linkedin (both on the side bar) or WeChat: CQ
 
 Recent news
 ------
+* 2025/11: Our new paper [GRaD-Nav++](https://qianzhong-chen.github.io/gradnavpp.github.io/) on drone VLA has been accepted to RA-L 2025!
 * 2025/08: Our new paper [ARCH](https://long-horizon-assembly.github.io/) on RL for manipulations has been accepted to CoRL 2025!
 * 2025/08: Our new paper [ParticleFormer](https://suninghuang19.github.io/particleformer_page/) on 3D world model for manipulations has been accepted to CoRL 2025!
 * 2025/06: Our new paper [GRaD-Nav](https://qianzhong-chen.github.io/gradnav.github.io/) on drone end-to-end visual navigation has been accepted to IROS 2025!
