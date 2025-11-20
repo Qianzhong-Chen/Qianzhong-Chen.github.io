@@ -15,7 +15,7 @@ My interests and background are across robot VLA model, world model, progress-ba
 
 I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
 
-My Curriculum Vitae can be found [here](https://drive.google.com/file/d/1i3HcgMSfIfz7L-88KApjTb-uXEJ-X7VS/view?usp=sharing) (updated Oct. 2025).
+My Curriculum Vitae can be found [here](https://drive.google.com/file/d/11ZD5Vrq-KzRyAAhngjY0aDPF-agwOLZY/view?usp=sharing) (updated Nov. 2025).
 
 Feel free to contact me via email, linkedin (both on the side bar) or WeChat: CQZ_David.
 
