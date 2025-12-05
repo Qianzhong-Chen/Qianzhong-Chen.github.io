@@ -15,9 +15,11 @@ My interests and background are across robot VLA model, world model, progress-ba
 
 I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
 
-My Curriculum Vitae can be found [here](https://drive.google.com/file/d/11ZD5Vrq-KzRyAAhngjY0aDPF-agwOLZY/view?usp=sharing) (updated Nov. 2025).
+My Resume can be found [here](https://drive.google.com/file/d/11-Zr4blYht-ascevT06f2HQ033LxN_JS/view?usp=sharing) (updated Dec. 2025).
 
-Feel free to contact me via email, linkedin (both on the side bar) or WeChat: CQZ_David.
+Feel free to contact me via email (qchen23 {at} stanford.edu), [linkedin](https://www.linkedin.com/in/qianzhong-chen-9bab01209/) or WeChat: CQZ_David.
+
+**[OPEN TO WORK]**: I am actively seeking research internship opportunities for Summer 2026. My research interests include Vision-Language-Action (VLA) models and World Models, with applications in both robot manipulation and autonomous driving.
 
 Recent news
 ------
