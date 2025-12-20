@@ -15,11 +15,49 @@ My interests and background are across robot VLA model, world model, progress-ba
 
 I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
 
-My Resume can be found [here](https://drive.google.com/file/d/11-Zr4blYht-ascevT06f2HQ033LxN_JS/view?usp=sharing) (updated Dec. 2025).
+My Resume can be found [here](https://drive.google.com/file/d/1EaNpeg3MZBYarqiUz-3ov_aR61ki7okc/view?usp=sharing) (updated Dec. 2025).
 
 Feel free to contact me via email (qchen23 {at} stanford.edu), [linkedin](https://www.linkedin.com/in/qianzhong-chen-9bab01209/) or WeChat: CQZ_David.
 
 **[OPEN TO WORK]**: I am actively seeking research internship opportunities for Summer 2026. My research interests include Vision-Language-Action (VLA) models and World Models, with applications in both robot manipulation and autonomous driving.
+
+Selected Publications ([Full list](https://qianzhong-chen.github.io/publications/))
+------
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/sarm.png" alt="sarm" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong> SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
+    <strong>Q. Chen</strong>, J. Yu, M. Schwager, P. Abbeel, F. Shentu, P. Wu<br>
+    <a href="https://arxiv.org/abs/2509.25358" target="_blank">arXiv</a> |
+    <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">website</a> |
+    <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> SARM is a stage-aware, video-based reward modeling framework that enables scalable and robust imitation learning for long-horizon tasks by deriving progress signals from natural language annotations, dramatically improving policy performance over standard behavior cloning.
+  </div>
+</div>
+
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/particle_former_website.jpg" alt="ParticleFormer" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong>[CoRL 2025] ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation</strong><br>
+    S. Huang, <strong>Q. Chen</strong>, X. Zhang, J. Sun, M. Schwager<br>
+    <a href="https://arxiv.org/abs/2506.23126" target="_blank">arXiv</a> |
+    <a href="https://suninghuang19.github.io/particleformer_page/" target="_blank">website</a> |
+    <a href="https://suninghuang19.github.io/particleformer_page/" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> A state-of-the-art 3D world model trained directly from point clouds, which enables accurate dynamics prediction across multi-object, multi-material scenarios and empowers model-based visuomotor control in robotic manipulation tasks.
+  </div>
+</div>
+
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong> [RA-L 2025] GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
+    <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
+    <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
+    <a href="https://qianzhong-chen.github.io/gradnavpp.github.io/" target="_blank">website</a> |
+    <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> GRaD-Nav++ is a lightweight, fully onboard Vision-Language-Action framework that enables drones to follow natural language commands in real time using DiffRL training in a 3DGS simulator, achieving strong generalization across tasks and environments both in simulation and on real hardware.
+  </div>
+</div>
 
 Recent news
 ------
