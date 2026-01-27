@@ -19,17 +19,18 @@ My Resume can be found [here](https://drive.google.com/file/d/1EaNpeg3MZBYarqiUz
 
 Feel free to contact me via email (qchen23 {at} stanford.edu), [linkedin](https://www.linkedin.com/in/qianzhong-chen-9bab01209/) or WeChat: CQZ_David.
 
-**[OPEN TO WORK]**: I am actively seeking research internship opportunities for Summer 2026. My research interests include Vision-Language-Action (VLA) models and World Models, with applications in both robot manipulation and autonomous driving.
+<!-- **[OPEN TO WORK]**: I am actively seeking research internship opportunities for Summer 2026. My research interests include Vision-Language-Action (VLA) models and World Models, with applications in both robot manipulation and autonomous driving. -->
 
 Selected Publications ([Full list](https://qianzhong-chen.github.io/publications/))
 ------
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/sarm.png" alt="sarm" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
-    <strong> SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
+    <strong>[Accepted to ICLR 2026] SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
     <strong>Q. Chen</strong>, J. Yu, M. Schwager, P. Abbeel, F. Shentu, P. Wu<br>
     <a href="https://arxiv.org/abs/2509.25358" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">website</a> |
+    <a href="https://huggingface.co/docs/lerobot/sarm" target="_blank">LeRobot</a> |
     <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">code</a><br><br>
     <strong>TL;DR:</strong> SARM is a stage-aware, video-based reward modeling framework that enables scalable and robust imitation learning for long-horizon tasks by deriving progress signals from natural language annotations, dramatically improving policy performance over standard behavior cloning.
   </div>
@@ -61,12 +62,15 @@ Selected Publications ([Full list](https://qianzhong-chen.github.io/publications
 
 Recent news
 ------
-* 2025/11: Our new paper [GRaD-Nav++](https://qianzhong-chen.github.io/gradnavpp.github.io/) on drone VLA has been accepted to RA-L 2025!
-* 2025/08: Our new paper [ARCH](https://long-horizon-assembly.github.io/) on RL for manipulations has been accepted to CoRL 2025!
-* 2025/08: Our new paper [ParticleFormer](https://suninghuang19.github.io/particleformer_page/) on 3D world model for manipulations has been accepted to CoRL 2025!
-* 2025/06: Our new paper [GRaD-Nav](https://qianzhong-chen.github.io/gradnav.github.io/) on drone end-to-end visual navigation has been accepted to IROS 2025!
-* 2025/06: Our new paper [DiffTune-HECTOR](https://sites.google.com/view/difftune-hector/home) on auto-tuning bipedal robots MPC controllers has been accepted to IROS 2025!
-* 2025/04: I was admitted to the [Aeronautics and Astronautics Department, Stanford University](https://aa.stanford.edu) as a PhD student, supervised by [Dr. Mac Schwager](https://web.stanford.edu/~schwager/).
+* 2026/01: 🎉🎉 Our new paper [SARM](https://qianzhong-chen.github.io/sarm.github.io/) on Robot Manipulation Reward Modeling has been accepted to ICLR 2026!
+* 2026/01: 🚀🚀 SARM is now natively supported in [LeRobot](https://huggingface.co/docs/lerobot/sarm)! Thanks huggingface🤗! 
+* 2025/11: 🎉🎉 Our new paper [GRaD-Nav++](https://qianzhong-chen.github.io/gradnavpp.github.io/) on drone VLA has been accepted to RA-L 2025!
+* 2025/08: 🎉🎉 Our new paper [ARCH](https://long-horizon-assembly.github.io/) on RL for manipulations has been accepted to CoRL 2025!
+* 2025/08: 🎉🎉 Our new paper [ParticleFormer](https://suninghuang19.github.io/particleformer_page/) on 3D world model for manipulations has been accepted to CoRL 2025!
+* 2025/04: ✨✨ I was admitted to the [Aeronautics and Astronautics Department, Stanford University](https://aa.stanford.edu) as a PhD student, supervised by [Dr. Mac Schwager](https://web.stanford.edu/~schwager/).
+<!-- * 2025/06: Our new paper [GRaD-Nav](https://qianzhong-chen.github.io/gradnav.github.io/) on drone end-to-end visual navigation has been accepted to IROS 2025!
+* 2025/06: Our new paper [DiffTune-HECTOR](https://sites.google.com/view/difftune-hector/home) on auto-tuning bipedal robots MPC controllers has been accepted to IROS 2025! -->
+
 <!-- * 2024/06: I started a new role as robotics algorithm engineer at [Centrillion Technologies](https://www.centrilliontech.com/), focusing on building LLM-driven mobile manipulation robot for bio-science lab experiments assistance.   -->
   
 <!-- * 2024/02: I started a new role as research assistant at [Stanford-MSL](https://msl.stanford.edu/), my project is end-to-end mobile robot navigation and control policy based on 3DGS and differentiable RL. -->
