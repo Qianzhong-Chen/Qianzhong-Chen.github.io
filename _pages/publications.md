@@ -19,7 +19,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <a href="https://arxiv.org/abs/2509.25358" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">website</a> |
     <a href="https://huggingface.co/docs/lerobot/sarm" target="_blank">LeRobot</a> |
-    <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">code</a><br><br>
+    <a href="https://github.com/xdofai/opensarm" target="_blank">code</a><br><br>
     <strong>TL;DR:</strong> SARM is a stage-aware, video-based reward modeling framework that enables scalable and robust imitation learning for long-horizon tasks by deriving progress signals from natural language annotations, dramatically improving policy performance over standard behavior cloning.
   </div>
 </div>
@@ -35,37 +35,6 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <strong>TL;DR:</strong> Dojo is a differentiable physics engine that solves contact dynamics with a custom interior-point method, offering stable simulation and smooth gradients for robotics tasks such as trajectory optimization, policy learning, and system identification.
   </div>
 </div>
-
----
-
-## Journal Articles
-
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong> [RA-L 2025] GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
-    <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
-    <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
-    <a href="https://qianzhong-chen.github.io/gradnavpp.github.io/" target="_blank">website</a> |
-    <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> GRaD-Nav++ is a lightweight, fully onboard Vision-Language-Action framework that enables drones to follow natural language commands in real time using DiffRL training in a 3DGS simulator, achieving strong generalization across tasks and environments both in simulation and on real hardware.
-  </div>
-</div>
-
-
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong>[RA-L 2023] Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization</strong><br>
-    <strong>Q. Chen</strong>, S. Cheng, N. Hovakimyan<br>
-    <em>IEEE Robotics and Automation Letters</em>, vol. 8, no. 6, pp. 3860–3867, 2023<br>
-    <a href="https://ieeexplore.ieee.org/document/10117594" target="_blank">link</a> |
-    <a href="https://arxiv.org/abs/2211.15902" target="_blank">arXiv</a><br><br>
-    <strong>TL;DR:</strong> Proposes a bilevel optimization framework for jointly assigning UAV waypoints in space and time to achieve efficient navigation through constrained environments.
-  </div>
-</div>
-
----
 
 ## Conferences
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
@@ -114,3 +83,35 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <strong>TL;DR:</strong> This work introduces GRFM-Net for modeling bipedal robot actuation and proposes an MPC autotuning pipeline that enables robust sim-to-real locomotion transfer.
   </div>
 </div>
+
+---
+
+## Journal Articles
+
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong> [RA-L 2025] GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
+    <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
+    <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
+    <a href="https://qianzhong-chen.github.io/gradnavpp.github.io/" target="_blank">website</a> |
+    <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> GRaD-Nav++ is a lightweight, fully onboard Vision-Language-Action framework that enables drones to follow natural language commands in real time using DiffRL training in a 3DGS simulator, achieving strong generalization across tasks and environments both in simulation and on real hardware.
+  </div>
+</div>
+
+
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong>[RA-L 2023] Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization</strong><br>
+    <strong>Q. Chen</strong>, S. Cheng, N. Hovakimyan<br>
+    <em>IEEE Robotics and Automation Letters</em>, vol. 8, no. 6, pp. 3860–3867, 2023<br>
+    <a href="https://ieeexplore.ieee.org/document/10117594" target="_blank">link</a> |
+    <a href="https://arxiv.org/abs/2211.15902" target="_blank">arXiv</a><br><br>
+    <strong>TL;DR:</strong> Proposes a bilevel optimization framework for jointly assigning UAV waypoints in space and time to achieve efficient navigation through constrained environments.
+  </div>
+</div>
+
+---
+

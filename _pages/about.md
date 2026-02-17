@@ -9,15 +9,33 @@ redirect_from:
 ---
 I'm a first year PhD student of [Stanford Aero-Astro Department](https://aa.stanford.edu/), advised by Dr. [Mac Schwager](https://web.stanford.edu/~schwager/). Previous to that, I was a research assistant at [UIUC-ACRL](https://naira.mechse.illinois.edu/), advised by Dr. [Naira Hovakimyan](https://mechse.illinois.edu/people/profile/nhovakim) and Dr. [Sheng Cheng](https://sheng-cheng.github.io/). 
 
-I also spent time at [xdof.ai](https://www.xdof.ai/), [Unitree](https://www.unitree.com/), [Centrillion](https://www.centrilliontech.com/) working as robotics engineering/research intern. I was fortunate to be advised by [Philipp Wu](https://wuphilipp.github.io/) (xdof.ai), [Fred Shentu](https://fredshentu.github.io/) (xdof.ai).
+I also spent time at [xdof.ai](https://www.xdof.ai/), [Unitree](https://www.unitree.com/), working as robotics research intern. I was fortunate to be advised by [Philipp Wu](https://wuphilipp.github.io/) (xdof.ai), [Fred Shentu](https://fredshentu.github.io/) (xdof.ai).
 
-My interests and background are across robot VLA model, world model, progress-based reward model, and autonomous drones visual navigation. 
+My ultimate goal is to build a general purpose robot that can conduct complex manipulation tasks for people in both home and factory. My current research interests include robot VLA model, world model, robot policy reward modeling and reinforcement learning. I did research on end-to-end drone navigation, dorne VLA, legged robot locomotion, and differentiable simulation before. 
 
 I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
 
 My Resume can be found [here](https://drive.google.com/file/d/1EaNpeg3MZBYarqiUz-3ov_aR61ki7okc/view?usp=sharing) (updated Dec. 2025).
 
 Feel free to contact me via email (qchen23 {at} stanford.edu), [linkedin](https://www.linkedin.com/in/qianzhong-chen-9bab01209/) or WeChat: CQZ_David.
+
+<div style="display:flex; gap:14px; align-items:center; flex-wrap:wrap; margin-top:10px;">
+  <a href="https://www.zju.edu.cn/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/icons/zju.png" alt="ZJU" height="34" />
+  </a>
+  <a href="https://illinois.edu/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/icons/uiuc.png" alt="UIUC" height="34" />
+  </a>
+  <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/icons/stf.avif" alt="Stanford" height="34" />
+  </a>
+  <a href="https://xdof.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/icons/xdof.png" alt="xdof" height="34" />
+  </a>
+  <a href="https://www.unitree.com/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/icons/unitree.png" alt="Unitree" height="34" />
+  </a>
+</div>
 
 <!-- **[OPEN TO WORK]**: I am actively seeking research internship opportunities for Summer 2026. My research interests include Vision-Language-Action (VLA) models and World Models, with applications in both robot manipulation and autonomous driving. -->
 
@@ -31,7 +49,7 @@ Selected Publications ([Full list](https://qianzhong-chen.github.io/publications
     <a href="https://arxiv.org/abs/2509.25358" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">website</a> |
     <a href="https://huggingface.co/docs/lerobot/sarm" target="_blank">LeRobot</a> |
-    <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">code</a><br><br>
+    <a href="https://github.com/xdofai/opensarm" target="_blank">code</a><br><br>
     <strong>TL;DR:</strong> SARM is a stage-aware, video-based reward modeling framework that enables scalable and robust imitation learning for long-horizon tasks by deriving progress signals from natural language annotations, dramatically improving policy performance over standard behavior cloning.
   </div>
 </div>
@@ -68,8 +86,9 @@ Recent news
 * 2025/08: 🎉🎉 Our new paper [ARCH](https://long-horizon-assembly.github.io/) on RL for manipulations has been accepted to CoRL 2025!
 * 2025/08: 🎉🎉 Our new paper [ParticleFormer](https://suninghuang19.github.io/particleformer_page/) on 3D world model for manipulations has been accepted to CoRL 2025!
 * 2025/04: ✨✨ I was admitted to the [Aeronautics and Astronautics Department, Stanford University](https://aa.stanford.edu) as a PhD student, supervised by [Dr. Mac Schwager](https://web.stanford.edu/~schwager/).
-<!-- * 2025/06: Our new paper [GRaD-Nav](https://qianzhong-chen.github.io/gradnav.github.io/) on drone end-to-end visual navigation has been accepted to IROS 2025!
-* 2025/06: Our new paper [DiffTune-HECTOR](https://sites.google.com/view/difftune-hector/home) on auto-tuning bipedal robots MPC controllers has been accepted to IROS 2025! -->
+
+<!-- * 2025/06: Our new paper [GRaD-Nav](https://qianzhong-chen.github.io/gradnav.github.io/) on drone end-to-end visual navigation has been accepted to IROS 2025! -->
+<!-- * 2025/06: Our new paper [DiffTune-HECTOR](https://sites.google.com/view/difftune-hector/home) on auto-tuning bipedal robots MPC controllers has been accepted to IROS 2025! -->
 
 <!-- * 2024/06: I started a new role as robotics algorithm engineer at [Centrillion Technologies](https://www.centrilliontech.com/), focusing on building LLM-driven mobile manipulation robot for bio-science lab experiments assistance.   -->
   
@@ -94,6 +113,6 @@ Honors and awards
 Service
 ------
 <!-- * Journal Reviewer: IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics -->
-* Journal Articles Reviewer: IEEE RA-L (2025), IEEE IoT (2025)  
+* Journal Articles Reviewer: IEEE RA-L (2025), IEEE IoT (2025), IEEE TIE (2025)  
 * Conference Reviewer: IROS (2025), ICRA (2026) 
 * Member of the IEEE Robotics and Automation Society
