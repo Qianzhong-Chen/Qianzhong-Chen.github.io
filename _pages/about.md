@@ -19,23 +19,35 @@ My Resume can be found [here](https://drive.google.com/file/d/1EaNpeg3MZBYarqiUz
 
 Feel free to contact me via email (qchen23 {at} stanford.edu), [linkedin](https://www.linkedin.com/in/qianzhong-chen-9bab01209/) or WeChat: CQZ_David.
 
-<div style="display:flex; gap:14px; align-items:center; flex-wrap:wrap; margin-top:10px;">
+<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-top:10px;">
   <a href="https://www.zju.edu.cn/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/icons/zju.png" alt="ZJU" height="34" />
+    <img src="/images/icons/zju.png" alt="ZJU"
+         style="width:80px;height:80px;object-fit:cover;object-position:center;border-radius:6px;display:block;" />
   </a>
+
   <a href="https://illinois.edu/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/icons/uiuc.png" alt="UIUC" height="34" />
+    <img src="/images/icons/uiuc.png" alt="UIUC"
+         style="width:80px;height:80px;object-fit:cover;object-position:center;border-radius:6px;display:block;" />
   </a>
+
   <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/icons/stf.avif" alt="Stanford" height="34" />
+    <img src="/images/icons/stf.avif" alt="Stanford"
+         style="width:100px;height:100px;object-fit:cover;object-position:center;border-radius:6px;display:block;" />
   </a>
-  <a href="https://xdof.ai/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/icons/xdof.png" alt="xdof" height="34" />
-  </a>
+
+  
   <a href="https://www.unitree.com/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/icons/unitree.png" alt="Unitree" height="34" />
+    <img src="/images/icons/unitree.png" alt="Unitree"
+         style="width:px;height:50px;object-fit:cover;object-position:center;border-radius:6px;display:block;" />
   </a>
+
+  <a href="https://xdof.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/icons/xdof.png" alt="xdof"
+         style="width:200px;height:150px;object-fit:cover;object-position:center;border-radius:6px;display:block;" />
+  </a>
+
 </div>
+
 
 <!-- **[OPEN TO WORK]**: I am actively seeking research internship opportunities for Summer 2026. My research interests include Vision-Language-Action (VLA) models and World Models, with applications in both robot manipulation and autonomous driving. -->
 
