@@ -11,7 +11,7 @@ I'm a first year PhD student of [Stanford Aero-Astro Department](https://aa.stan
 
 I also spent time at [xdof.ai](https://www.xdof.ai/), [Unitree](https://www.unitree.com/), working as robotics research intern. I was fortunate to be advised by [Philipp Wu](https://wuphilipp.github.io/) (xdof.ai), [Fred Shentu](https://fredshentu.github.io/) (xdof.ai).
 
-My ultimate goal is to build a general purpose robot that can conduct complex manipulation tasks for people in both home and factory. My current research interests include robot VLA model, world model, robot policy reward modeling and reinforcement learning. I did research on end-to-end drone navigation, dorne VLA, legged robot locomotion, and differentiable simulation before. 
+My ultimate goal is to build a general purpose robot that can conduct complex manipulation tasks for people in both home and factory. My current research interests include robot VLA model, world model, robot policy reward modeling and reinforcement learning. I also did research on end-to-end drone navigation, dorne VLA, legged robot locomotion, and differentiable simulation previously. 
 
 I received my Bachelor's degree in Mechanical Engineering from both Zhejiang University and UIUC in 2023. I received my Master's degree in Mechanical Engineering from Stanford University in 2025.
 
