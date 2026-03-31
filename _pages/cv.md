@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-## My CV can be found [here](https://drive.google.com/file/d/1i3bM7727tCPdRkVSAbGTtEvDz2mkCxUU/view?usp=sharing) (updated Dec. 2025).
+## My CV can be found [here](https://drive.google.com/file/d/1YkhE1BwP3tDWADCKezvjiEecnFuhAmhw/view?usp=sharing) (updated March 2026).
