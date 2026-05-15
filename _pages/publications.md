@@ -9,12 +9,13 @@ An updated list of all publications can be found on my <a href="https://scholar.
 
 ---
 
-## Preprints
+
+## Conferences
 
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/sarm.png" alt="sarm" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
-     <strong>[Accepted to ICLR 2026] SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
+     <strong>[ICLR 2026] SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
     <strong>Q. Chen</strong>, J. Yu, M. Schwager, P. Abbeel, F. Shentu, P. Wu<br>
     <a href="https://arxiv.org/abs/2509.25358" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">website</a> |
@@ -24,19 +25,6 @@ An updated list of all publications can be found on my <a href="https://scholar.
   </div>
 </div>
 
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/dojo.png" alt="Dojo" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong> Dojo: A Differentiable Physics Engine for Robotics</strong><br>
-    T. Howell, S. Cleac'h, J. Brüdigam, <strong>Q. Chen</strong>, J. Sun, Z. Kolter, M. Schwager, Z. Manchester<br>
-    <a href="https://arxiv.org/abs/2203.00806" target="_blank">arXiv</a> |
-    <a href="https://dojo-sim.github.io/Dojo.jl/stable/index.html" target="_blank">website</a> |
-    <a href="https://github.com/dojo-sim/Dojo.jl" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> Dojo is a differentiable physics engine that solves contact dynamics with a custom interior-point method, offering stable simulation and smooth gradients for robotics tasks such as trajectory optimization, policy learning, and system identification.
-  </div>
-</div>
-
-## Conferences
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/arch.png" alt="ARCH" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
@@ -91,8 +79,9 @@ An updated list of all publications can be found on my <a href="https://scholar.
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
-    <strong> [RA-L 2025] GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
+    <strong style="color: red;"> [RA-L 2025 Best Paper Award]</strong><br> GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics
     <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
+    <a href="https://ieeexplore.ieee.org/document/11297793" target="_blank">Paper</a> 
     <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/gradnavpp.github.io/" target="_blank">website</a> |
     <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
@@ -110,6 +99,19 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <a href="https://ieeexplore.ieee.org/document/10117594" target="_blank">link</a> |
     <a href="https://arxiv.org/abs/2211.15902" target="_blank">arXiv</a><br><br>
     <strong>TL;DR:</strong> Proposes a bilevel optimization framework for jointly assigning UAV waypoints in space and time to achieve efficient navigation through constrained environments.
+  </div>
+</div>
+
+## Preprints
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/dojo.png" alt="Dojo" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong> Dojo: A Differentiable Physics Engine for Robotics</strong><br>
+    T. Howell, S. Cleac'h, J. Brüdigam, <strong>Q. Chen</strong>, J. Sun, Z. Kolter, M. Schwager, Z. Manchester<br>
+    <a href="https://arxiv.org/abs/2203.00806" target="_blank">arXiv</a> |
+    <a href="https://dojo-sim.github.io/Dojo.jl/stable/index.html" target="_blank">website</a> |
+    <a href="https://github.com/dojo-sim/Dojo.jl" target="_blank">code</a><br><br>
+    <strong>TL;DR:</strong> Dojo is a differentiable physics engine that solves contact dynamics with a custom interior-point method, offering stable simulation and smooth gradients for robotics tasks such as trajectory optimization, policy learning, and system identification.
   </div>
 </div>
 

@@ -41,9 +41,9 @@ Feel free to contact me via email (qchen23 {at} stanford.edu), [linkedin](https:
          style="width:px;height:50px;object-fit:cover;object-position:center;border-radius:6px;display:block;" />
   </a>
 
-  <a href="https://xdof.ai/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/icons/xdof.png" alt="xdof"
-         style="width:200px;height:150px;object-fit:cover;object-position:center;border-radius:6px;display:block;" />
+  <a href="https://xdof.ai/" target="_blank" rel="noopener noreferrer" style="margin-left:30px;">
+    <img src="/images/icons/xdof_new.png" alt="xdof"
+         style="height:40px;width:auto;object-fit:contain;object-position:center;border-radius:6px;display:block;" />
   </a>
 
 </div>
@@ -56,7 +56,7 @@ Selected Publications ([Full list](https://qianzhong-chen.github.io/publications
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/sarm.png" alt="sarm" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
-    <strong>[Accepted to ICLR 2026] SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
+    <strong>[ICLR 2026] SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
     <strong>Q. Chen</strong>, J. Yu, M. Schwager, P. Abbeel, F. Shentu, P. Wu<br>
     <a href="https://arxiv.org/abs/2509.25358" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">website</a> |
@@ -81,8 +81,9 @@ Selected Publications ([Full list](https://qianzhong-chen.github.io/publications
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
-    <strong> [RA-L 2025] GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
+    <strong style="color: red;"> [RA-L 2025 Best Paper Award]</strong><br>  <strong>GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics</strong><br>
     <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
+    <a href="https://ieeexplore.ieee.org/document/11297793" target="_blank">Paper</a> |
     <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/gradnavpp.github.io/" target="_blank">website</a> |
     <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
@@ -92,6 +93,7 @@ Selected Publications ([Full list](https://qianzhong-chen.github.io/publications
 
 Recent news
 ------
+* 2026/05: 🏆🏆 Our paper [GRaD-Nav++](https://qianzhong-chen.github.io/gradnavpp.github.io/) won the <span style="color: red;">**RA-L 2025 Best Paper Award (5/1700)**</span>!
 * 2026/01: 🎉🎉 Our new paper [SARM](https://qianzhong-chen.github.io/sarm.github.io/) on Robot Manipulation Reward Modeling has been accepted to ICLR 2026!
 * 2026/01: 🚀🚀 SARM is now natively supported in [LeRobot](https://huggingface.co/docs/lerobot/sarm)! Thanks huggingface🤗! 
 * 2025/11: 🎉🎉 Our new paper [GRaD-Nav++](https://qianzhong-chen.github.io/gradnavpp.github.io/) on drone VLA has been accepted to RA-L 2025!
