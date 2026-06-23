@@ -54,6 +54,19 @@ Feel free to contact me via email (qchen23 {at} stanford.edu), [linkedin](https:
 Selected Publications ([Full list](https://qianzhong-chen.github.io/publications/))
 ------
 <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/sarm2.jpg" alt="sarm2" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong>SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation</strong><br>
+    <strong>Q. Chen</strong>, H. Zheng, J. Yu, S. Huang, J. Sun, K. Goldberg, C. Wen, P. Abbeel, Y. Shentu, P. Wu, M. Schwager<br>
+    <a href="https://arxiv.org/abs/2606.10305" target="_blank">arXiv</a> |
+    <a href="https://qianzhong-chen.github.io/sarm2.github.io/" target="_blank">website</a> |
+    <a href="https://github.com/xdofai/opensarm" target="_blank">code (SARM2)</a> | 
+    <a href="https://github.com/xdofai/openspiral" target="_blank">code (SPIRAL)</a><br><br>
+    <strong>TL;DR:</strong> SARM2 is a multi-task, stage-aware reward modeling framework that produces accurate dense rewards for long-horizon manipulation, enabling VLA policies to improve from low-cost autonomous rollouts and achieve near-perfect real-world task performance.
+     </div>
+</div>
+
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/sarm.png" alt="sarm" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>[ICLR 2026] SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
@@ -93,6 +106,7 @@ Selected Publications ([Full list](https://qianzhong-chen.github.io/publications
 
 Recent news
 ------
+* 2026/06: I started working at Amazon Personal Robotics Group (PRG) as an intern applied scientist. Feel free to catch me at sjc14.   
 * 2026/05: 🏆🏆 Our paper [GRaD-Nav++](https://qianzhong-chen.github.io/gradnavpp.github.io/) won the <span style="color: red;">**RA-L 2025 Best Paper Award (5/1700)**</span>!
 * 2026/01: 🎉🎉 Our new paper [SARM](https://qianzhong-chen.github.io/sarm.github.io/) on Robot Manipulation Reward Modeling has been accepted to ICLR 2026!
 * 2026/01: 🚀🚀 SARM is now natively supported in [LeRobot](https://huggingface.co/docs/lerobot/sarm)! Thanks huggingface🤗! 

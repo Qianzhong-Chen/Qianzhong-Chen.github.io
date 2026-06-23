@@ -9,6 +9,19 @@ An updated list of all publications can be found on my <a href="https://scholar.
 
 ---
 
+## Preprints
+<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+  <img src="/images/publications/sarm2.jpg" alt="sarm2" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong>SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation</strong><br>
+    <strong>Q. Chen</strong>, H. Zheng, J. Yu, S. Huang, J. Sun, K. Goldberg, C. Wen, P. Abbeel, Y. Shentu, P. Wu, M. Schwager<br>
+    <a href="https://arxiv.org/abs/2606.10305" target="_blank">arXiv</a> |
+    <a href="https://qianzhong-chen.github.io/sarm2.github.io/" target="_blank">website</a> |
+    <a href="https://github.com/xdofai/opensarm" target="_blank">code (SARM2)</a> | 
+    <a href="https://github.com/xdofai/openspiral" target="_blank">code (SPIRAL)</a><br><br>
+    <strong>TL;DR:</strong> SARM2 is a multi-task, stage-aware reward modeling framework that produces accurate dense rewards for long-horizon manipulation, enabling VLA policies to improve from low-cost autonomous rollouts and achieve near-perfect real-world task performance.
+     </div>
+</div>
 
 ## Conferences
 
@@ -102,8 +115,9 @@ An updated list of all publications can be found on my <a href="https://scholar.
   </div>
 </div>
 
-## Preprints
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
+
+
+<!-- <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
   <img src="/images/publications/dojo.png" alt="Dojo" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong> Dojo: A Differentiable Physics Engine for Robotics</strong><br>
@@ -113,7 +127,7 @@ An updated list of all publications can be found on my <a href="https://scholar.
     <a href="https://github.com/dojo-sim/Dojo.jl" target="_blank">code</a><br><br>
     <strong>TL;DR:</strong> Dojo is a differentiable physics engine that solves contact dynamics with a custom interior-point method, offering stable simulation and smooth gradients for robotics tasks such as trajectory optimization, policy learning, and system identification.
   </div>
-</div>
+</div> -->
 
 ---
 
