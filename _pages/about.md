@@ -61,7 +61,7 @@ Selected Publications ([Full list](https://qianzhong-chen.github.io/publications
     <a href="https://arxiv.org/abs/2606.10305" target="_blank">arXiv</a> |
     <a href="https://qianzhong-chen.github.io/sarm2.github.io/" target="_blank">website</a> |
     <a href="https://github.com/xdofai/opensarm" target="_blank">code (SARM2)</a> | 
-    <a href="https://github.com/xdofai/openspiral" target="_blank">code (SPIRAL)</a><br><br>
+    <a href="https://github.com/Qianzhong-Chen/openspiral" target="_blank">code (SPIRAL)</a><br><br>
     <strong>TL;DR:</strong> SARM2 is a multi-task, stage-aware reward modeling framework that produces accurate dense rewards for long-horizon manipulation, enabling VLA policies to improve from low-cost autonomous rollouts and achieve near-perfect real-world task performance.
      </div>
 </div>
