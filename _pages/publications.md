@@ -2,132 +2,55 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+hide_title: true
+author_profile: false
 ---
 
-An updated list of all publications can be found on my <a href="https://scholar.google.com/citations?user=MqU82XsAAAAJ&hl=en" target="_blank">Google Scholar</a> profile.
-
----
-
-## Preprints
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/sarm2.jpg" alt="sarm2" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
+<header class="publications-page-intro">
   <div>
-    <strong>SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation</strong><br>
-    <strong>Q. Chen</strong>, H. Zheng, J. Yu, S. Huang, J. Sun, K. Goldberg, C. Wen, P. Abbeel, Y. Shentu, P. Wu, M. Schwager<br>
-    <a href="https://arxiv.org/abs/2606.10305" target="_blank">arXiv</a> |
-    <a href="https://qianzhong-chen.github.io/sarm2.github.io/" target="_blank">website</a> |
-    <a href="https://github.com/xdofai/opensarm" target="_blank">code (SARM2)</a> | 
-    <a href="https://github.com/Qianzhong-Chen/openspiral" target="_blank">code (SPIRAL)</a><br><br>
-    <strong>TL;DR:</strong> SARM2 is a multi-task, stage-aware reward modeling framework that produces accurate dense rewards for long-horizon manipulation, enabling VLA policies to improve from low-cost autonomous rollouts and achieve near-perfect real-world task performance.
-     </div>
-</div>
-
-## Conferences
-
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/sarm.png" alt="sarm" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-     <strong>[ICLR 2026] SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation</strong><br>
-    <strong>Q. Chen</strong>, J. Yu, M. Schwager, P. Abbeel, F. Shentu, P. Wu<br>
-    <a href="https://arxiv.org/abs/2509.25358" target="_blank">arXiv</a> |
-    <a href="https://qianzhong-chen.github.io/sarm.github.io/" target="_blank">website</a> |
-    <a href="https://huggingface.co/docs/lerobot/sarm" target="_blank">LeRobot</a> |
-    <a href="https://github.com/xdofai/opensarm" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> SARM is a stage-aware, video-based reward modeling framework that enables scalable and robust imitation learning for long-horizon tasks by deriving progress signals from natural language annotations, dramatically improving policy performance over standard behavior cloning.
+    <span class="page-header__eyebrow">Research output</span>
+    <h1>Publications</h1>
+    <p>Work in robot learning, reward modeling, world models, autonomous navigation, locomotion, and differentiable control.</p>
   </div>
-</div>
+  <a class="button-link" href="https://scholar.google.com/citations?user=MqU82XsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar <span aria-hidden="true">↗</span></a>
+</header>
 
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/arch.png" alt="ARCH" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong>[CoRL 2025] ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly</strong><br>
-    J. Sun, A. Curtis, Y. You, Y. Xu, M. Koehle, <strong>Q. Chen</strong>, S. Huang, L. Guibas, S. Chitta, M. Schwager, H. Li<br>
-    <a href="https://arxiv.org/abs/2409.16451" target="_blank">arXiv</a> |
-    <a href="https://long-horizon-assembly.github.io/" target="_blank">website</a> |
-    <a href="https://long-horizon-assembly.github.io/" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> ARCH is a hierarchical modular framework that combines imitation learning and reinforcement learning primitives with a high-level policy to enable data-efficient, high-precision, and generalizable long-horizon robotic assembly.
+{% assign preprints = site.data.publications | where: "section", "Preprints" %}
+{% assign conferences = site.data.publications | where: "section", "Conferences" %}
+{% assign journals = site.data.publications | where: "section", "Journal Articles" %}
+
+<section class="publication-section" id="preprints">
+  <div class="publication-section__heading">
+    <h2>Preprints</h2>
+    <span>{{ preprints.size }} {% if preprints.size == 1 %}work{% else %}works{% endif %}</span>
   </div>
-</div>
-
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/particle_former_website.jpg" alt="ParticleFormer" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong>[CoRL 2025] ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation</strong><br>
-    S. Huang, <strong>Q. Chen</strong>, X. Zhang, J. Sun, M. Schwager<br>
-    <a href="https://arxiv.org/abs/2506.23126" target="_blank">arXiv</a> |
-    <a href="https://suninghuang19.github.io/particleformer_page/" target="_blank">website</a> |
-    <a href="https://suninghuang19.github.io/particleformer_page/" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> A state-of-the-art 3D world model trained directly from point clouds, which enables accurate dynamics prediction across multi-object, multi-material scenarios and empowers model-based visuomotor control in robotic manipulation tasks.
+  <div class="publications-list">
+    {% for publication in preprints %}
+      {% include publication-card.html publication=publication %}
+    {% endfor %}
   </div>
-</div>
+</section>
 
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/gradnav.png" alt="GRaD-Nav" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong>[IROS 2025] GRaD-Nav: Efficiently learning visual drone navigation with Gaussian radiance fields and differentiable dynamics</strong><br>
-    <strong>Q. Chen</strong>, J. Sun, N. Gao, J. Low, T. Chen, M. Schwager<br>
-    <a href="https://arxiv.org/abs/2503.03984" target="_blank">arXiv</a> |
-    <a href="https://qianzhong-chen.github.io/gradnav.github.io/" target="_blank">website</a> |
-    <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> We propose a vision-based drone navigation framework that leverages differentiable dynamics and Gaussian radiance fields for sample-efficient learning and robust generalization.
+<section class="publication-section" id="conferences">
+  <div class="publication-section__heading">
+    <h2>Conferences</h2>
+    <span>{{ conferences.size }} works</span>
   </div>
-</div>
-
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/difftune.png" alt="Difftune" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong>[IROS 2025] Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer</strong><br>
-    <strong>Q. Chen</strong>, J. Li, S. Cheng, N. Hovakimyan, Q. Nguyen<br>
-    <a href="https://arxiv.org/abs/2409.15710" target="_blank">arXiv</a> |
-    <a href="https://sites.google.com/view/difftune-hector/home" target="_blank">website</a><br><br>
-    <strong>TL;DR:</strong> This work introduces GRFM-Net for modeling bipedal robot actuation and proposes an MPC autotuning pipeline that enables robust sim-to-real locomotion transfer.
+  <div class="publications-list">
+    {% for publication in conferences %}
+      {% include publication-card.html publication=publication %}
+    {% endfor %}
   </div>
-</div>
+</section>
 
----
-
-## Journal Articles
-
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/grad_nav_pp.png" alt="DroneVLA" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong style="color: red;"> [RA-L 2025 Best Paper Award]</strong><br> GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics
-    <strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager<br>
-    <a href="https://ieeexplore.ieee.org/document/11297793" target="_blank">Paper</a> 
-    <a href="https://www.arxiv.org/abs/2506.14009" target="_blank">arXiv</a> |
-    <a href="https://qianzhong-chen.github.io/gradnavpp.github.io/" target="_blank">website</a> |
-    <a href="https://github.com/Qianzhong-Chen/grad_nav" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> GRaD-Nav++ is a lightweight, fully onboard Vision-Language-Action framework that enables drones to follow natural language commands in real time using DiffRL training in a 3DGS simulator, achieving strong generalization across tasks and environments both in simulation and on real hardware.
+<section class="publication-section" id="journals">
+  <div class="publication-section__heading">
+    <h2>Journal articles</h2>
+    <span>{{ journals.size }} works</span>
   </div>
-</div>
-
-
-<div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/RAL_1.gif" alt="UAV traj" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong>[RA-L 2023] Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization</strong><br>
-    <strong>Q. Chen</strong>, S. Cheng, N. Hovakimyan<br>
-    <em>IEEE Robotics and Automation Letters</em>, vol. 8, no. 6, pp. 3860–3867, 2023<br>
-    <a href="https://ieeexplore.ieee.org/document/10117594" target="_blank">link</a> |
-    <a href="https://arxiv.org/abs/2211.15902" target="_blank">arXiv</a><br><br>
-    <strong>TL;DR:</strong> Proposes a bilevel optimization framework for jointly assigning UAV waypoints in space and time to achieve efficient navigation through constrained environments.
+  <div class="publications-list">
+    {% for publication in journals %}
+      {% include publication-card.html publication=publication %}
+    {% endfor %}
   </div>
-</div>
-
-
-
-<!-- <div class="publication" style="display: flex; align-items: stretch; margin-bottom: 30px;">
-  <img src="/images/publications/dojo.png" alt="Dojo" style="width: 240px; height: 150px; object-fit: fill; margin-right: 20px; border-radius: 8px;">
-  <div>
-    <strong> Dojo: A Differentiable Physics Engine for Robotics</strong><br>
-    T. Howell, S. Cleac'h, J. Brüdigam, <strong>Q. Chen</strong>, J. Sun, Z. Kolter, M. Schwager, Z. Manchester<br>
-    <a href="https://arxiv.org/abs/2203.00806" target="_blank">arXiv</a> |
-    <a href="https://dojo-sim.github.io/Dojo.jl/stable/index.html" target="_blank">website</a> |
-    <a href="https://github.com/dojo-sim/Dojo.jl" target="_blank">code</a><br><br>
-    <strong>TL;DR:</strong> Dojo is a differentiable physics engine that solves contact dynamics with a custom interior-point method, offering stable simulation and smooth gradients for robotics tasks such as trajectory optimization, policy learning, and system identification.
-  </div>
-</div> -->
-
----
-
+</section>

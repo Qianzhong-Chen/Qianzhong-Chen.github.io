@@ -1,0 +1,48 @@
+{% assign publication = include.publication %}
+{% assign has_media = false %}
+{% if publication.video or publication.image %}
+  {% assign has_media = true %}
+{% endif %}
+<article class="publication-card{% unless has_media %} publication-card--no-media{% endunless %}" id="{{ publication.id }}">
+  {% if has_media %}
+    <div class="publication-card__media">
+      {% if publication.video %}
+        <video
+          class="publication-card__video"
+          data-publication-video
+          muted
+          loop
+          playsinline
+          preload="metadata"
+          {% if publication.image %}poster="{{ publication.image | relative_url }}"{% endif %}
+          aria-hidden="true"
+        >
+          <source src="{{ publication.video | relative_url }}?v=20260909-2" type="video/mp4">
+        </video>
+      {% else %}
+        <img src="{{ publication.image | relative_url }}" alt="{{ publication.image_alt }}" loading="lazy">
+      {% endif %}
+    </div>
+  {% endif %}
+  <div class="publication-card__body">
+    <div class="publication-card__meta">
+      <span class="publication-card__venue">{{ publication.venue }}</span>
+      {% if publication.award %}
+        <span class="award-badge">{{ publication.award }}</span>
+      {% endif %}
+    </div>
+    <h3 class="publication-card__title">{{ publication.title }}</h3>
+    <p class="publication-card__authors">{{ publication.authors }}</p>
+    {% if publication.citation %}
+      <p class="publication-card__citation">{{ publication.citation }}</p>
+    {% endif %}
+    {% if publication.links %}
+      <div class="publication-card__links" aria-label="Links for {{ publication.title }}">
+        {% for link in publication.links %}
+          <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }} <span aria-hidden="true">↗</span></a>
+        {% endfor %}
+      </div>
+    {% endif %}
+    <p class="publication-card__summary">{{ publication.summary }}</p>
+  </div>
+</article>

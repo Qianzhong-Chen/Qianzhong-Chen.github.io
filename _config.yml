@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Qianzhong Chen"
-title_separator          : "."
+title_separator          : "·"
 name                     : "Qianzhong Chen"
 description              : "PhD Student at Stanford Aero-Astro"
 url                      : "https://qianzhong-chen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

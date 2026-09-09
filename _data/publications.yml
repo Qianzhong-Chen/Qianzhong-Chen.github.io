@@ -1,0 +1,197 @@
+- id: breaking-lock-in
+  section: Preprints
+  selected: false
+  year: 2026
+  venue: arXiv 2026
+  video: /teaser_videos/delock.mp4
+  title: "Breaking Lock-In: Preserving Steerability under Low-Data VLA Post-Training"
+  authors: "S. Huang, J. Shao, K. Wang, <strong>Q. Chen</strong>, J. Sun, Y. Guo, M. Schwager, J. Bohg"
+  summary: "DeLock preserves visual grounding during low-data VLA post-training and uses test-time contrastive prompt guidance to retain steerability across novel concepts, spatial targets, and task configurations."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2604.23121
+    - label: Project
+      url: https://suninghuang19.github.io/delock_page/
+
+- id: sarm2
+  section: Preprints
+  selected: true
+  year: 2026
+  venue: Preprint
+  video: /teaser_videos/sarm2.mp4
+  image: /images/publications/sarm2.jpg
+  image_alt: SARM2 robot manipulation overview
+  title: "SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation"
+  authors: "<strong>Q. Chen</strong>, H. Zheng, J. Yu, S. Huang, J. Sun, K. Goldberg, C. Wen, P. Abbeel, Y. Shentu, P. Wu, M. Schwager"
+  summary: "A multi-task, stage-aware reward modeling framework that produces dense rewards for long-horizon manipulation, enabling VLA policies to improve from low-cost autonomous rollouts."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2606.10305
+    - label: Project
+      url: https://qianzhong-chen.github.io/sarm2.github.io/
+    - label: SARM2 Code
+      url: https://github.com/xdofai/opensarm
+    - label: SPIRAL Code
+      url: https://github.com/Qianzhong-Chen/openspiral
+
+- id: warp-rm
+  section: Conferences
+  selected: false
+  year: 2026
+  venue: CoRL 2026
+  video: /teaser_videos/warp-rm.mp4
+  title: "WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation"
+  authors: "J. Yu*, A. Goldberg*, K. Kondap*, K. El-Refai*, E. Ransing, <strong>Q. Chen</strong>, M. Schwager, Y. Shentu, P. Wu, K. Goldberg"
+  summary: "A self-supervised reward model that learns dense, signed relative progress from temporally warped robot demonstrations, enabling frame-level data curation without human annotations."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2606.28320
+    - label: Project
+      url: https://uynitsuj.github.io/warp-rm/
+    - label: Code
+      url: https://github.com/uynitsuj/WARP-RM
+
+- id: legs
+  section: Conferences
+  selected: false
+  year: 2026
+  venue: CoRL 2026
+  video: /teaser_videos/LEGS.mp4
+  title: "LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-Manipulation in an Embodied Gaussian Splatting World"
+  authors: "H. Kim, T. Chen, J. Sun, L. W. Osterberg, <strong>Q. Chen</strong>, K. Wang, M. Schwager"
+  summary: "A teleoperation-free pipeline that procedurally generates photorealistic demonstrations in a physics-grounded 3D Gaussian Splatting simulator to fine-tune humanoid VLAs for zero-shot real-world deployment."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2606.01458
+    - label: Project
+      url: https://legsvla.github.io/
+    - label: Code
+      url: https://github.com/hojjunekim/LEGS
+
+- id: sarm
+  section: Conferences
+  selected: true
+  year: 2026
+  venue: ICLR 2026
+  video: /teaser_videos/sarm.mp4
+  image: /images/publications/sarm.png
+  image_alt: SARM stage-aware reward modeling
+  title: "SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation"
+  authors: "<strong>Q. Chen</strong>, J. Yu, M. Schwager, P. Abbeel, F. Shentu, P. Wu"
+  summary: "A video-based reward modeling framework that derives progress signals from natural-language stage annotations for scalable long-horizon imitation learning."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2509.25358
+    - label: Project
+      url: https://qianzhong-chen.github.io/sarm.github.io/
+    - label: LeRobot
+      url: https://huggingface.co/docs/lerobot/sarm
+    - label: Code
+      url: https://github.com/xdofai/opensarm
+
+- id: arch
+  section: Conferences
+  selected: false
+  year: 2025
+  venue: CoRL 2025
+  video: /teaser_videos/ARCH.mp4
+  image: /images/publications/arch.png
+  image_alt: ARCH robotic assembly framework
+  title: "ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly"
+  authors: "J. Sun, A. Curtis, Y. You, Y. Xu, M. Koehle, <strong>Q. Chen</strong>, S. Huang, L. Guibas, S. Chitta, M. Schwager, H. Li"
+  summary: "A hierarchical framework combining imitation and reinforcement learning primitives with a high-level policy for precise, long-horizon robotic assembly."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2409.16451
+    - label: Project
+      url: https://long-horizon-assembly.github.io/
+
+- id: particleformer
+  section: Conferences
+  selected: true
+  year: 2025
+  venue: CoRL 2025
+  video: /teaser_videos/particleformer.mp4
+  image: /images/publications/particle_former_website.jpg
+  image_alt: ParticleFormer point-cloud world model
+  title: "ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation"
+  authors: "S. Huang, <strong>Q. Chen</strong>, X. Zhang, J. Sun, M. Schwager"
+  summary: "A 3D world model trained directly from point clouds for dynamics prediction and model-based visuomotor control across objects and materials."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2506.23126
+    - label: Project
+      url: https://suninghuang19.github.io/particleformer_page/
+
+- id: gradnav
+  section: Conferences
+  selected: false
+  year: 2025
+  venue: IROS 2025
+  image: /images/publications/gradnav.png
+  image_alt: GRaD-Nav visual drone navigation
+  title: "GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics"
+  authors: "<strong>Q. Chen</strong>, J. Sun, N. Gao, J. Low, T. Chen, M. Schwager"
+  summary: "A vision-based drone navigation framework using differentiable dynamics and Gaussian radiance fields for sample-efficient learning and robust generalization."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2503.03984
+    - label: Project
+      url: https://qianzhong-chen.github.io/gradnav.github.io/
+    - label: Code
+      url: https://github.com/Qianzhong-Chen/grad_nav
+
+- id: difftune
+  section: Conferences
+  selected: false
+  year: 2025
+  venue: IROS 2025
+  image: /images/publications/difftune.png
+  image_alt: DiffTune bipedal locomotion
+  title: "Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer"
+  authors: "<strong>Q. Chen</strong>, J. Li, S. Cheng, N. Hovakimyan, Q. Nguyen"
+  summary: "GRFM-Net and an MPC autotuning pipeline for robust and efficient sim-to-real bipedal locomotion transfer."
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2409.15710
+    - label: Project
+      url: https://sites.google.com/view/difftune-hector/home
+
+- id: gradnavpp
+  section: Journal Articles
+  selected: true
+  year: 2025
+  venue: IEEE RA-L 2025
+  award: Best Paper Award · 5/1700
+  video: /teaser_videos/gradnav++.mp4
+  image: /images/publications/grad_nav_pp.png
+  image_alt: GRaD-Nav++ vision-language drone navigation
+  title: "GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics"
+  authors: "<strong>Q. Chen</strong>, N. Gao, S. Huang, J. Low, T. Chen, J. Sun, M. Schwager"
+  summary: "A lightweight onboard vision-language-action framework that trains in a 3D Gaussian Splatting simulator and follows natural-language drone commands in real time."
+  links:
+    - label: Paper
+      url: https://ieeexplore.ieee.org/document/11297793
+    - label: arXiv
+      url: https://www.arxiv.org/abs/2506.14009
+    - label: Project
+      url: https://qianzhong-chen.github.io/gradnavpp.github.io/
+    - label: Code
+      url: https://github.com/Qianzhong-Chen/grad_nav
+
+- id: ssta
+  section: Journal Articles
+  selected: false
+  year: 2023
+  venue: IEEE RA-L 2023
+  image: /images/publications/RAL_1.gif
+  image_alt: UAV trajectory optimization
+  title: "Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization"
+  authors: "<strong>Q. Chen</strong>, S. Cheng, N. Hovakimyan"
+  citation: "IEEE Robotics and Automation Letters, vol. 8, no. 6, pp. 3860–3867, 2023"
+  summary: "A bilevel optimization framework that jointly assigns UAV waypoints in space and time for efficient navigation through constrained environments."
+  links:
+    - label: Paper
+      url: https://ieeexplore.ieee.org/document/10117594
+    - label: arXiv
+      url: https://arxiv.org/abs/2211.15902
