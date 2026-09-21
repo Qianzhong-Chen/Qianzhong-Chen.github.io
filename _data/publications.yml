@@ -1,3 +1,18 @@
+- id: lmao-world
+  section: Preprints
+  selected: true
+  year: 2026
+  venue: Preprint
+  video: /teaser_videos/lmao_world.mp4
+  title: "LMAO-World: Loco-Manipulation VLA Optimization in World Models"
+  authors: "Anonymous Authors"
+  summary: "A teleoperation-free framework that combines simulated demonstrations and play data with autonomous real robot rollouts to train video world models for reinforcement learning of whole-body humanoid loco-manipulation policies."
+  links:
+    - label: Paper
+      url: https://lmao-world.github.io/media/paper.pdf?v=3c406a6e
+    - label: Project
+      url: https://lmao-world.github.io/
+
 - id: breaking-lock-in
   section: Preprints
   selected: false
