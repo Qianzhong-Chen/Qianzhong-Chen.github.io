@@ -5,7 +5,7 @@
   venue: Preprint
   video: /teaser_videos/lmao_world.mp4
   title: "LMAO-World: Loco-Manipulation VLA Optimization in World Models"
-  authors: "Anonymous Authors"
+  authors:  "<strong>Q. Chen</strong>, etc."
   summary: "A teleoperation-free framework that combines simulated demonstrations and play data with autonomous real robot rollouts to train video world models for reinforcement learning of whole-body humanoid loco-manipulation policies."
   links:
     - label: Paper
